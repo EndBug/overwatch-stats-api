@@ -1,7 +1,7 @@
 {
-  "name": "overwatch-stats-api",
+  "name": "@endbug/overwatch-stats-api",
   "version": "2.1.0",
-  "description": "get stats from blizzard career profile pages",
+  "description": "Get stats from blizzard career profile pages",
   "main": "src/index.js",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fatchan/overwatch-stats-api.git"
+    "url": "git+https://github.com/EndBug/overwatch-stats-api.git"
   },
   "keywords": [
     "overwatch",
@@ -27,9 +27,9 @@
   "author": "fatchan",
   "license": "LGPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/fatchan/overwatch-stats-api/issues"
+    "url": "https://github.com/EndBug/overwatch-stats-api/issues"
   },
-  "homepage": "https://github.com/fatchan/overwatch-stats-api#readme",
+  "homepage": "https://github.com/EndBug/overwatch-stats-api#readme",
   "runkitExampleFilename": "examples/runkit.js",
   "types": "./typings/index.d.ts",
   "directories": {
