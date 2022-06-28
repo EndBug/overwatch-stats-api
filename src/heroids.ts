@@ -31,5 +31,5 @@ export const heroIDMap = {
   '0x02E000000000012F': 'doomfist',
   '0x02E0000000000221': 'baptiste',
   '0x02E000000000023B': 'sigma',
-  '0x02E0000000000206': 'echo'
-} as const
+  '0x02E0000000000206': 'echo',
+} as const;

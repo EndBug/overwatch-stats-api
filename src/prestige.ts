@@ -99,12 +99,12 @@ const PRESTIGE_STARS = {
  */
 function parseAssetID(url: string): string {
   // Example URL: https://d15f34w2p8l1cc.cloudfront.net/overwatch/4a2c852a16043f613b7bfac33c8536dd9f9621a3d567174cb4ad9a80e3b13102.png
-  if (typeof url != 'string') throw new Error('The url must be a string.')
+  if (typeof url !== 'string') throw new Error('The url must be a string.');
 
-  const arr = url.split('/')
-  const id = arr[arr.length - 1].split('.')[0]
+  const arr = url.split('/');
+  const id = arr[arr.length - 1].split('.')[0];
 
-  return id
+  return id;
 }
 
 /**
@@ -117,18 +117,20 @@ export function getPrestige(
   frameURL: string,
   starsURL = ''
 ): number | undefined {
-  let prestige: number
+  let prestige: number;
 
-  if (typeof frameURL != 'string') throw new Error('frameURL must be a string.')
-  if (typeof starsURL != 'string') throw new Error('starsURL must be a string.')
+  if (typeof frameURL !== 'string')
+    throw new Error('frameURL must be a string.');
+  if (typeof starsURL !== 'string')
+    throw new Error('starsURL must be a string.');
 
-  const frameID = parseAssetID(frameURL) as keyof typeof PRESTIGE_BORDERS
-  prestige = PRESTIGE_BORDERS[frameID]
+  const frameID = parseAssetID(frameURL) as keyof typeof PRESTIGE_BORDERS;
+  prestige = PRESTIGE_BORDERS[frameID];
 
   if (starsURL) {
-    const starsID = parseAssetID(starsURL) as keyof typeof PRESTIGE_STARS
-    prestige += PRESTIGE_STARS[starsID]
+    const starsID = parseAssetID(starsURL) as keyof typeof PRESTIGE_STARS;
+    prestige += PRESTIGE_STARS[starsID];
   }
 
-  return prestige || undefined
+  return prestige || undefined;
 }

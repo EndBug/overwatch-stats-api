@@ -2,7 +2,17 @@
   "name": "@endbug/overwatch-stats-api",
   "version": "2.1.0",
   "description": "Get stats from blizzard career profile pages",
-  "main": "src/index.js",
+  "main": "build/index.js",
+  "types": "build",
+  "scripts": {
+    "build": "rimraf build && tsc",
+    "build:prepare": "path-exists ./build || npm run build",
+    "lint": "gts lint",
+    "prepare": "npm run build:prepare",
+    "test": "node test/test.js",
+    "clean": "gts clean",
+    "fix": "gts fix"
+  },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "node-fetch": "^2.3.0"
@@ -18,15 +28,13 @@
     "eslint-plugin": "^1.0.1",
     "eslint-plugin-jest": "^26.5.3",
     "eslint-plugin-prettier": "^4.1.0",
+    "gts": "^3.1.0",
     "jest": "^28.1.1",
+    "path-exists-cli": "^2.0.0",
     "prettier": "^2.7.1",
+    "rimraf": "^3.0.2",
     "ts-jest": "^28.0.5",
     "typescript": "^4.7.4"
-  },
-  "scripts": {
-    "lint": "eslint src --fix",
-    "types": "node scripts/types.js",
-    "test": "node test/test.js"
   },
   "repository": {
     "type": "git",
@@ -44,7 +52,6 @@
   },
   "homepage": "https://github.com/EndBug/overwatch-stats-api#readme",
   "runkitExampleFilename": "examples/runkit.js",
-  "types": "./typings/index.d.ts",
   "directories": {
     "test": "test"
   }
