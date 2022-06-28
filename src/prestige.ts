@@ -1,6 +1,7 @@
 // This file contains the current known dictionary for Overwatch's prestige frame and stars images
 // Huge thanks to the contributors of OWAPI that made it possible: https://github.com/Fuyukai/OWAPI/blob/master/owapi/prestige.py
 
+/* eslint-disable prettier/prettier */
 const PRESTIGE_BORDERS = {
   // Base level Bronze = 0
   '1055f5ae3a84b7bd8afa9fcbd2baaf9a412c63e8fe5411025b3264db12927771': 0, // Bronze Lv 1
@@ -89,43 +90,45 @@ const PRESTIGE_STARS = {
   '58b1323ab2eb1298fa6be649a8d4d7f0e623523bd01964ed8fefd5175d9073c0': 4, // 4 Diamond stars
   'cd877430ccc400c10e24507dba972e24a4543edc05628045300f1349cf003f3a': 5, // 5 Diamond stars
 };
+/* eslint-enable prettier/prettier */
 
 /**
  * Parses the URL of a frame/stars image and returns its ID
- * @param {string} url The URL of the asset
- * @returns {string} The corresponding ID
+ * @param url The URL of the asset
+ * @returns The corresponding ID
  */
-function parseAssetID(url) {
+function parseAssetID(url: string): string {
   // Example URL: https://d15f34w2p8l1cc.cloudfront.net/overwatch/4a2c852a16043f613b7bfac33c8536dd9f9621a3d567174cb4ad9a80e3b13102.png
-  if (typeof url != 'string') throw new Error('The url must be a string.');
+  if (typeof url != 'string') throw new Error('The url must be a string.')
 
-  const arr = url.split('/');
-  const id = arr[arr.length - 1].split('.')[0];
+  const arr = url.split('/')
+  const id = arr[arr.length - 1].split('.')[0]
 
-  return id;
+  return id
 }
 
 /**
  * Parses the URLs of the frame & stars images and returns the corresponding prestige
- * @param {string} frameURL The URL of the frame
- * @param {string} starsURL The URL of the stars
- * @returns {number} The corresponding prestige
+ * @param frameURL The URL of the frame
+ * @param starsURL The URL of the stars
+ * @returns The corresponding prestige
  */
-function getPrestige(frameURL, starsURL = '') {
-  let prestige;
+export function getPrestige(
+  frameURL: string,
+  starsURL = ''
+): number | undefined {
+  let prestige: number
 
-  if (typeof frameURL != 'string') throw new Error('frameURL must be a string.');
-  if (typeof starsURL != 'string') throw new Error('starsURL must be a string.');
+  if (typeof frameURL != 'string') throw new Error('frameURL must be a string.')
+  if (typeof starsURL != 'string') throw new Error('starsURL must be a string.')
 
-  const frameID = parseAssetID(frameURL);
-  prestige = PRESTIGE_BORDERS[frameID];
+  const frameID = parseAssetID(frameURL) as keyof typeof PRESTIGE_BORDERS
+  prestige = PRESTIGE_BORDERS[frameID]
 
   if (starsURL) {
-    const starsID = parseAssetID(starsURL);
-    prestige += PRESTIGE_STARS[starsID];
+    const starsID = parseAssetID(starsURL) as keyof typeof PRESTIGE_STARS
+    prestige += PRESTIGE_STARS[starsID]
   }
 
-  return prestige || undefined;
+  return prestige || undefined
 }
-
-module.exports = getPrestige;
