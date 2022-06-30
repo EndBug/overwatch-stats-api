@@ -135,8 +135,8 @@ export async function getHeroStats(
           const heroName = heroIDMap[heroID];
           if (heroName) {
             // hero stat object
-            const hero = {
-              hero_specific: {} as any,
+            const hero: Record<string, Record<string, string>> = {
+              hero_specific: {},
               combat: {},
               assists: {},
               best: {},
