@@ -9,7 +9,7 @@
     "build:prepare": "path-exists ./build || npm run build",
     "lint": "gts lint",
     "prepare": "npm run build:prepare",
-    "test": "node test/test.js",
+    "test": "jest",
     "clean": "gts clean",
     "fix": "gts fix"
   },
