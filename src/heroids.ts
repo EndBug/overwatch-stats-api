@@ -13,7 +13,7 @@ export const heroIDMap = {
   '0x02E0000000000015': 'bastion',
   '0x02E0000000000016': 'symmetra',
   '0x02E0000000000029': 'genji',
-  '0x02E0000000000042': 'mccree',
+  '0x02E0000000000042': 'cassidy',
   '0x02E0000000000065': 'junkrat',
   '0x02E0000000000068': 'zarya',
   '0x02E000000000006E': 'soldier',
