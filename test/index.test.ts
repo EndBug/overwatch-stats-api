@@ -5,7 +5,7 @@ import {
   getMostPlayed,
 } from '../src/index';
 
-const battletag = 'HusseinObama-11715',
+const battletag = 'xQc-11273',
   platform = 'pc';
 
 test('getBasicInfo', async () => {

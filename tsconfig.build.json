@@ -5,8 +5,7 @@
     "outDir": "build"
   },
   "exclude": [
-    "**/*.test.*",
-    "**/__mocks__/*",
-    "**/__tests__/*"
+    "test",
+    "scripts"
   ]
 }

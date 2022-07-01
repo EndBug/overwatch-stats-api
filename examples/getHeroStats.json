@@ -1,0 +1,2782 @@
+{
+  "quickplay": {
+    "overall": {
+      "hero_specific": {},
+      "combat": {
+        "all_damage_done": "7800367",
+        "barrier_damage_done": "31919",
+        "damage_done": "167291",
+        "deaths": "10598",
+        "eliminations": "20287",
+        "environmental_kills": "111",
+        "final_blows": "12072",
+        "hero_damage_done": "167291",
+        "melee_final_blows": "274",
+        "multikills": "333",
+        "objective_kills": "6643",
+        "objective_time": "13:08:44",
+        "solo_kills": "4275",
+        "time_spent_on_fire": "34:16:14"
+      },
+      "assists": {
+        "defensive_assists": "1816",
+        "healing_done": "1689807",
+        "offensive_assists": "1081",
+        "recon_assists": "14"
+      },
+      "best": {
+        "all_damage_done_most_in_game": "21507",
+        "barrier_damage_done_most_in_game": "7375",
+        "defensive_assists_most_in_game": "23",
+        "eliminations_most_in_game": "62",
+        "environmental_kills_most_in_game": "2",
+        "final_blows_most_in_game": "38",
+        "healing_done_most_in_game": "16829",
+        "hero_damage_done_most_in_game": "12320",
+        "kill_streak_best": "45",
+        "melee_final_blows_most_in_game": "5",
+        "multikill_best": "5",
+        "objective_kills_most_in_game": "37",
+        "objective_time_most_in_game": "04:46",
+        "offensive_assists_most_in_game": "31",
+        "recon_assists_most_in_game": "14",
+        "solo_kills_most_in_game": "38",
+        "time_spent_on_fire_most_in_game": "13:21",
+        "turret_destroyed_most_in_game": "1"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "6923",
+        "barrier_damage_done_avg_per_10_min": "28.33",
+        "deaths_avg_per_10_min": "9.41",
+        "eliminations_avg_per_10_min": "18.01",
+        "final_blows_avg_per_10_min": "10.71",
+        "healing_done_avg_per_10_min": "1500",
+        "hero_damage_done_avg_per_10_min": "6952",
+        "objective_kills_avg_per_10_min": "5.90",
+        "objective_time_avg_per_10_min": "00:42",
+        "solo_kills_avg_per_10_min": "3.79",
+        "time_spent_on_fire_avg_per_10_min": "01:49"
+      },
+      "game": {
+        "games_lost": "736",
+        "games_played": "1482",
+        "games_won": "746",
+        "time_played": "187:47:07"
+      },
+      "miscellaneous": {
+        "teleporter_pads_destroyed": "45",
+        "turrets_destroyed": "918"
+      },
+      "match_awards": {
+        "medals_gold": "1557",
+        "cards": "553",
+        "medals": "3893",
+        "medals_bronze": "1145",
+        "medals_silver": "1191"
+      }
+    },
+    "ana": {
+      "hero_specific": {
+        "biotic_grenade_kills": "8",
+        "enemies_slept": "37",
+        "enemies_slept_avg_per_10_min": "4.62",
+        "enemies_slept_most_in_game": "5",
+        "nano_boost_assists": "23",
+        "nano_boost_assists_avg_per_10_min": "2.87",
+        "nano_boost_assists_most_in_game": "4",
+        "nano_boosts_applied": "26",
+        "nano_boosts_applied_avg_per_10_min": "3.25",
+        "nano_boosts_applied_most_in_game": "5",
+        "scoped_accuracy": "62%",
+        "scoped_accuracy_best_in_game": "80%",
+        "self_healing": "3275",
+        "self_healing_avg_per_10_min": "409",
+        "self_healing_most_in_game": "854",
+        "unscoped_accuracy": "62%",
+        "unscoped_accuracy_best_in_game": "83%"
+      },
+      "combat": {
+        "all_damage_done": "24200",
+        "barrier_damage_done": "536",
+        "deaths": "83",
+        "eliminations": "73",
+        "final_blows": "25",
+        "hero_damage_done": "1695",
+        "melee_final_blows": "3",
+        "objective_kills": "15",
+        "objective_time": "01:40",
+        "solo_kills": "5",
+        "time_spent_on_fire": "02:44",
+        "weapon_accuracy": "13%"
+      },
+      "assists": {
+        "defensive_assists": "62",
+        "defensive_assists_avg_per_10_min": "7.74",
+        "defensive_assists_most_in_game": "11",
+        "healing_done": "27543",
+        "healing_done_most_in_game": "7852",
+        "offensive_assists": "50",
+        "offensive_assists_avg_per_10_min": "6.24",
+        "offensive_assists_most_in_game": "7"
+      },
+      "best": {
+        "all_damage_done_most_in_game": "4177",
+        "all_damage_done_most_in_life": "1659",
+        "barrier_damage_done_most_in_game": "354",
+        "eliminations_most_in_game": "13",
+        "eliminations_most_in_life": "12",
+        "final_blows_most_in_game": "6",
+        "hero_damage_done_most_in_game": "1127",
+        "hero_damage_done_most_in_life": "811",
+        "kill_streak_best": "12",
+        "melee_final_blow_most_in_game": "1",
+        "objective_kills_most_in_game": "4",
+        "objective_time_most_in_game": "00:21",
+        "solo_kills_most_in_game": "2",
+        "time_spent_on_fire_most_in_game": "01:02",
+        "weapon_accuracy_best_in_game": "20%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "3022",
+        "barrier_damage_done_avg_per_10_min": "680",
+        "deaths_avg_per_10_min": "10.36",
+        "eliminations_avg_per_10_min": "9.11",
+        "eliminations_per_life": "0.88",
+        "final_blows_avg_per_10_min": "3.12",
+        "healing_done_avg_per_10_min": "5172",
+        "hero_damage_done_avg_per_10_min": "2152",
+        "melee_final_blows_avg_per_10_min": "0.37",
+        "objective_kills_avg_per_10_min": "1.87",
+        "objective_time_avg_per_10_min": "00:13",
+        "solo_kills_avg_per_10_min": "0.62",
+        "time_spent_on_fire_avg_per_10_min": "00:21"
+      },
+      "game": {
+        "games_lost": "8",
+        "games_played": "11",
+        "games_won": "3",
+        "time_played": "01:20:05",
+        "win_percentage": "24%"
+      },
+      "miscellaneous": {
+        "turrets_destroyed": "3"
+      },
+      "match_awards": {
+        "medals_bronze": "6",
+        "medals_silver": "8",
+        "medals_gold": "10",
+        "medals": "24",
+        "cards": "6"
+      }
+    },
+    "bastion": {
+      "hero_specific": {
+        "recon_kills": "106",
+        "recon_kills_avg_per_10_min": "3.56",
+        "recon_kills_most_in_game": "9",
+        "self_healing": "19442",
+        "self_healing_avg_per_10_min": "652",
+        "self_healing_most_in_game": "1624",
+        "sentry_kills": "439",
+        "sentry_kills_avg_per_10_min": "14.73",
+        "sentry_kills_most_in_game": "23",
+        "tank_kills": "123",
+        "tank_kills_avg_per_10_min": "4.13",
+        "tank_kills_most_in_game": "14"
+      },
+      "combat": {
+        "all_damage_done": "301252",
+        "critical_hit_accuracy": "5%",
+        "critical_hits": "905",
+        "deaths": "280",
+        "eliminations": "668",
+        "final_blows": "475",
+        "melee_final_blow": "1",
+        "multikills": "9",
+        "objective_kills": "259",
+        "objective_time": "07:24",
+        "solo_kills": "171",
+        "time_spent_on_fire": "55:32",
+        "weapon_accuracy": "23%"
+      },
+      "assists": {},
+      "best": {
+        "all_damage_done_most_in_game": "18350",
+        "all_damage_done_most_in_life": "6728",
+        "critical_hits_most_in_game": "65",
+        "critical_hits_most_in_life": "38",
+        "eliminations_most_in_game": "31",
+        "eliminations_most_in_life": "20",
+        "final_blows_most_in_game": "26",
+        "kill_streak_best": "20",
+        "melee_final_blow_most_in_game": "1",
+        "multikill_best": "3",
+        "objective_kills_most_in_game": "25",
+        "objective_time_most_in_game": "01:11",
+        "solo_kills_most_in_game": "11",
+        "weapon_accuracy_best_in_game": "40%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "10108",
+        "critical_hits_avg_per_10_min": "30.36",
+        "deaths_avg_per_10_min": "9.39",
+        "eliminations_avg_per_10_min": "22.41",
+        "eliminations_per_life": "2.39",
+        "final_blows_avg_per_10_min": "15.94",
+        "healing_done_avg_per_10_min": "652",
+        "melee_final_blows_avg_per_10_min": "0.03",
+        "objective_kills_avg_per_10_min": "8.69",
+        "objective_time_avg_per_10_min": "00:15",
+        "solo_kills_avg_per_10_min": "5.74",
+        "time_spent_on_fire_avg_per_10_min": "01:52"
+      },
+      "game": {
+        "games_lost": "19",
+        "games_played": "40",
+        "games_won": "21",
+        "time_played": "04:58:03",
+        "win_percentage": "52%"
+      },
+      "miscellaneous": {
+        "teleporter_pads_destroyed": "2",
+        "turrets_destroyed": "3"
+      },
+      "match_awards": {
+        "medals_bronze": "37",
+        "medals_silver": "49",
+        "medals_gold": "54",
+        "medals": "140",
+        "cards": "16"
+      }
+    },
+    "cassidy": {
+      "hero_specific": {
+        "deadeye_kills": "58",
+        "deadeye_kills_avg_per_10_min": "1.24",
+        "deadeye_kills_most_in_game": "4",
+        "fan_the_hammer_kills": "86",
+        "fan_the_hammer_kills_avg_per_10_min": "1.84",
+        "fan_the_hammer_kills_most_in_game": "7"
+      },
+      "combat": {
+        "all_damage_done": "320000",
+        "barrier_damage_done": "4279",
+        "critical_hit_accuracy": "9%",
+        "critical_hits": "426",
+        "deaths": "506",
+        "eliminations": "690",
+        "final_blows": "427",
+        "hero_damage_done": "29960",
+        "melee_final_blows": "11",
+        "multikill": "1",
+        "objective_kills": "164",
+        "objective_time": "13:23",
+        "solo_kills": "142",
+        "time_spent_on_fire": "33:25",
+        "weapon_accuracy": "43%"
+      },
+      "assists": {
+        "offensive_assists_most_in_game": "8"
+      },
+      "best": {
+        "all_damage_done_most_in_game": "11635",
+        "all_damage_done_most_in_life": "5643",
+        "barrier_damage_done_most_in_game": "1792",
+        "critical_hits_most_in_game": "20",
+        "critical_hits_most_in_life": "9",
+        "eliminations_most_in_game": "29",
+        "eliminations_most_in_life": "14",
+        "final_blows_most_in_game": "20",
+        "hero_damage_done_most_in_game": "6796",
+        "hero_damage_done_most_in_life": "2544",
+        "kill_streak_best": "14",
+        "melee_final_blows_most_in_game": "2",
+        "multikill_best": "3",
+        "objective_kills_most_in_game": "9",
+        "objective_time_most_in_game": "01:17",
+        "solo_kills_most_in_game": "10",
+        "time_spent_on_fire_most_in_game": "03:30",
+        "weapon_accuracy_best_in_game": "72%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "6864",
+        "barrier_damage_done_avg_per_10_min": "1072",
+        "critical_hits_avg_per_10_min": "9.14",
+        "deaths_avg_per_10_min": "10.85",
+        "eliminations_avg_per_10_min": "14.80",
+        "eliminations_per_life": "1.36",
+        "final_blows_avg_per_10_min": "9.16",
+        "hero_damage_done_avg_per_10_min": "7507",
+        "melee_final_blows_avg_per_10_min": "0.24",
+        "objective_kills_avg_per_10_min": "3.52",
+        "objective_time_avg_per_10_min": "00:17",
+        "solo_kills_avg_per_10_min": "3.05",
+        "time_spent_on_fire_avg_per_10_min": "00:43"
+      },
+      "game": {
+        "games_lost": "41",
+        "games_played": "67",
+        "games_won": "26",
+        "time_played": "07:46:14",
+        "win_percentage": "38%"
+      },
+      "miscellaneous": {
+        "turrets_destroyed": "20"
+      },
+      "match_awards": {
+        "medals_bronze": "42",
+        "medals_silver": "37",
+        "medals_gold": "32",
+        "medals": "112",
+        "cards": "6"
+      }
+    },
+    "dva": {
+      "hero_specific": {
+        "damage_blocked": "18312",
+        "damage_blocked_avg_per_10_min": "2545",
+        "damage_blocked_most_in_game": "3685",
+        "mech_deaths": "76",
+        "mechs_called": "34",
+        "mechs_called_avg_per_10_min": "4.72",
+        "mechs_called_most_in_game": "7",
+        "selfdestruct_kills": "21",
+        "selfdestruct_kills_avg_per_10_min": "2.92",
+        "selfdestruct_kills_most_in_game": "4"
+      },
+      "combat": {
+        "all_damage_done": "51999",
+        "critical_hit_accuracy": "10%",
+        "critical_hits": "1192",
+        "deaths": "66",
+        "eliminations": "135",
+        "environmental_kill": "1",
+        "final_blows": "67",
+        "melee_final_blow": "1",
+        "objective_kills": "34",
+        "objective_time": "07:32",
+        "solo_kills": "19",
+        "time_spent_on_fire": "03:22",
+        "weapon_accuracy": "30%"
+      },
+      "assists": {},
+      "best": {
+        "all_damage_done_most_in_game": "7795",
+        "all_damage_done_most_in_life": "2603",
+        "critical_hits_most_in_game": "199",
+        "critical_hits_most_in_life": "103",
+        "eliminations_most_in_game": "29",
+        "eliminations_most_in_life": "10",
+        "final_blows_most_in_game": "15",
+        "kill_streak_best": "10",
+        "melee_final_blow_most_in_game": "1",
+        "objective_kills_most_in_game": "7",
+        "objective_time_most_in_game": "01:46",
+        "solo_kills_most_in_game": "8",
+        "weapon_accuracy_best_in_game": "53%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "7226",
+        "critical_hits_avg_per_10_min": "166",
+        "deaths_avg_per_10_min": "9.17",
+        "eliminations_avg_per_10_min": "18.76",
+        "eliminations_per_life": "2.05",
+        "final_blows_avg_per_10_min": "9.31",
+        "melee_final_blows_avg_per_10_min": "0.14",
+        "objective_kills_avg_per_10_min": "4.72",
+        "objective_time_avg_per_10_min": "01:03",
+        "solo_kills_avg_per_10_min": "2.64",
+        "time_spent_on_fire_avg_per_10_min": "00:28"
+      },
+      "game": {
+        "games_lost": "5",
+        "games_played": "9",
+        "games_won": "5",
+        "time_played": "01:11:58",
+        "win_percentage": "52%"
+      },
+      "miscellaneous": {
+        "teleporter_pad_destroyed": "1",
+        "turret_destroyed": "1"
+      },
+      "match_awards": {
+        "medals_bronze": "7",
+        "medals_silver": "8",
+        "medals_gold": "7",
+        "medals": "22",
+        "card": "1"
+      }
+    },
+    "genji": {
+      "hero_specific": {
+        "damage_reflected": "64095",
+        "damage_reflected_avg_per_10_min": "1297",
+        "damage_reflected_most_in_game": "2962",
+        "deflection_kills": "3",
+        "dragonblade_kills": "218",
+        "dragonblade_kills_avg_per_10_min": "4.41",
+        "dragonblade_kills_most_in_game": "10"
+      },
+      "combat": {
+        "all_damage_done": "323624",
+        "barrier_damage_done": "950",
+        "critical_hit_accuracy": "8%",
+        "critical_hits": "499",
+        "deaths": "495",
+        "eliminations": "831",
+        "final_blows": "501",
+        "hero_damage_done": "8507",
+        "melee_final_blows": "30",
+        "multikills": "4",
+        "objective_kills": "240",
+        "objective_time": "25:49",
+        "solo_kills": "243",
+        "time_spent_on_fire": "45:51",
+        "weapon_accuracy": "30%"
+      },
+      "assists": {},
+      "best": {
+        "all_damage_done_most_in_game": "11087",
+        "all_damage_done_most_in_life": "8030",
+        "barrier_damage_done_most_in_game": "726",
+        "critical_hits_most_in_game": "22",
+        "critical_hits_most_in_life": "11",
+        "eliminations_most_in_game": "41",
+        "eliminations_most_in_life": "23",
+        "final_blows_most_in_game": "19",
+        "hero_damage_done_most_in_game": "2900",
+        "hero_damage_done_most_in_life": "2309",
+        "kill_streak_best": "23",
+        "melee_final_blows_most_in_game": "3",
+        "multikill_best": "4",
+        "objective_kills_most_in_game": "37",
+        "objective_time_most_in_game": "03:13",
+        "solo_kills_most_in_game": "14",
+        "time_spent_on_fire_most_in_game": "02:23",
+        "weapon_accuracy_best_in_game": "51%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "6551",
+        "barrier_damage_done_avg_per_10_min": "683",
+        "critical_hits_avg_per_10_min": "10.10",
+        "deaths_avg_per_10_min": "10.02",
+        "eliminations_avg_per_10_min": "16.82",
+        "eliminations_per_life": "1.68",
+        "final_blows_avg_per_10_min": "10.14",
+        "hero_damage_done_avg_per_10_min": "6112",
+        "melee_final_blows_avg_per_10_min": "0.61",
+        "objective_kills_avg_per_10_min": "4.86",
+        "objective_time_avg_per_10_min": "00:31",
+        "solo_kills_avg_per_10_min": "4.92",
+        "time_spent_on_fire_avg_per_10_min": "00:56"
+      },
+      "game": {
+        "games_lost": "35",
+        "games_played": "65",
+        "games_won": "30",
+        "time_played": "08:14:00",
+        "win_percentage": "47%"
+      },
+      "miscellaneous": {
+        "teleporter_pads_destroyed": "4",
+        "turrets_destroyed": "63"
+      },
+      "match_awards": {
+        "medals_bronze": "48",
+        "medals_silver": "43",
+        "medals_gold": "49",
+        "medals": "140",
+        "cards": "12"
+      }
+    },
+    "hanzo": {
+      "hero_specific": {
+        "dragonstrike_kills": "29",
+        "dragonstrike_kills_avg_per_10_min": "1.37",
+        "dragonstrike_kills_most_in_game": "3",
+        "scatter_arrow_kills": "70",
+        "scatter_arrow_kills_avg_per_10_min": "3.31",
+        "scatter_arrow_kills_most_in_game": "10"
+      },
+      "combat": {
+        "all_damage_done": "148777",
+        "barrier_damage_done": "350",
+        "critical_hit_accuracy": "11%",
+        "critical_hits": "157",
+        "deaths": "225",
+        "eliminations": "340",
+        "final_blows": "212",
+        "hero_damage_done": "4044",
+        "melee_final_blow": "1",
+        "objective_kills": "99",
+        "objective_time": "07:09",
+        "solo_kills": "72",
+        "time_spent_on_fire": "08:33",
+        "weapon_accuracy": "25%"
+      },
+      "assists": {
+        "recon_assists": "2",
+        "recon_assists_avg_per_10_min": "0.09",
+        "recon_assists_most_in_game": "5"
+      },
+      "best": {
+        "all_damage_done_most_in_game": "8395",
+        "all_damage_done_most_in_life": "3599",
+        "barrier_damage_done_most_in_game": "350",
+        "critical_hits_most_in_game": "10",
+        "critical_hits_most_in_life": "5",
+        "eliminations_most_in_game": "23",
+        "eliminations_most_in_life": "11",
+        "final_blows_most_in_game": "16",
+        "hero_damage_done_most_in_game": "2926",
+        "hero_damage_done_most_in_life": "818",
+        "kill_streak_best": "11",
+        "melee_final_blow_most_in_game": "1",
+        "objective_kills_most_in_game": "8",
+        "objective_time_most_in_game": "00:57",
+        "solo_kills_most_in_game": "6",
+        "time_spent_on_fire_most_in_game": "00:27",
+        "weapon_accuracy_best_in_game": "47%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "7045",
+        "barrier_damage_done_avg_per_10_min": "485",
+        "critical_hits_avg_per_10_min": "7.43",
+        "deaths_avg_per_10_min": "10.66",
+        "eliminations_avg_per_10_min": "16.10",
+        "eliminations_per_life": "1.51",
+        "final_blows_avg_per_10_min": "10.04",
+        "hero_damage_done_avg_per_10_min": "5600",
+        "melee_final_blows_avg_per_10_min": "0.05",
+        "objective_kills_avg_per_10_min": "4.69",
+        "objective_time_avg_per_10_min": "00:20",
+        "solo_kills_avg_per_10_min": "3.41",
+        "time_spent_on_fire_avg_per_10_min": "00:24"
+      },
+      "game": {
+        "games_lost": "16",
+        "games_played": "31",
+        "games_won": "15",
+        "time_played": "03:31:10",
+        "win_percentage": "48%"
+      },
+      "miscellaneous": {
+        "turrets_destroyed": "12"
+      },
+      "match_awards": {
+        "medals_bronze": "24",
+        "medals_silver": "22",
+        "medals_gold": "17",
+        "medals": "64",
+        "cards": "3"
+      }
+    },
+    "junkrat": {
+      "hero_specific": {
+        "enemies_trapped": "117",
+        "enemies_trapped_avg_per_10_min": "5.48",
+        "enemies_trapped_most_in_game": "10",
+        "riptire_kills": "64",
+        "riptire_kills_avg_per_10_min": "3.00",
+        "riptire_kills_most_in_game": "6"
+      },
+      "combat": {
+        "all_damage_done": "202040",
+        "barrier_damage_done": "8095",
+        "deaths": "194",
+        "eliminations": "372",
+        "environmental_kills": "3",
+        "final_blows": "260",
+        "hero_damage_done": "8421",
+        "multikills": "2",
+        "objective_kills": "92",
+        "objective_time": "06:13",
+        "solo_kills": "116",
+        "time_spent_on_fire": "12:24",
+        "weapon_accuracy": "23%"
+      },
+      "assists": {
+        "offensive_assist": "1",
+        "offensive_assist_most_in_game": "1",
+        "offensive_assists_avg_per_10_min": "0.05"
+      },
+      "best": {
+        "all_damage_done_most_in_game": "17853",
+        "all_damage_done_most_in_life": "6242",
+        "barrier_damage_done_most_in_game": "7375",
+        "eliminations_most_in_game": "29",
+        "eliminations_most_in_life": "11",
+        "final_blows_most_in_game": "22",
+        "hero_damage_done_most_in_game": "6958",
+        "hero_damage_done_most_in_life": "3131",
+        "kill_streak_best": "11",
+        "multikill_best": "3",
+        "objective_kills_most_in_game": "7",
+        "objective_time_most_in_game": "00:35",
+        "solo_kills_most_in_game": "12",
+        "time_spent_on_fire_most_in_game": "01:17",
+        "weapon_accuracy_best_in_game": "52%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "9462",
+        "barrier_damage_done_avg_per_10_min": "7826",
+        "deaths_avg_per_10_min": "9.09",
+        "eliminations_avg_per_10_min": "17.42",
+        "eliminations_per_life": "1.92",
+        "final_blows_avg_per_10_min": "12.18",
+        "hero_damage_done_avg_per_10_min": "8141",
+        "objective_kills_avg_per_10_min": "4.31",
+        "objective_time_avg_per_10_min": "00:17",
+        "solo_kills_avg_per_10_min": "5.43",
+        "time_spent_on_fire_avg_per_10_min": "00:35"
+      },
+      "game": {
+        "games_lost": "16",
+        "games_played": "29",
+        "games_won": "12",
+        "time_played": "03:33:31",
+        "win_percentage": "43%"
+      },
+      "miscellaneous": {
+        "turrets_destroyed": "12"
+      },
+      "match_awards": {
+        "medals_bronze": "19",
+        "medals_silver": "20",
+        "medals_gold": "23",
+        "medals": "63",
+        "cards": "11"
+      }
+    },
+    "lucio": {
+      "hero_specific": {
+        "self_healing": "134296",
+        "self_healing_avg_per_10_min": "2085",
+        "self_healing_most_in_game": "4930",
+        "sound_barriers_provided": "850",
+        "sound_barriers_provided_avg_per_10_min": "13.19",
+        "sound_barriers_provided_most_in_game": "31"
+      },
+      "combat": {
+        "all_damage_done": "223645",
+        "critical_hit_accuracy": "6%",
+        "critical_hits": "637",
+        "deaths": "564",
+        "eliminations": "935",
+        "environmental_kills": "60",
+        "final_blows": "248",
+        "hero_damage_done": "240",
+        "melee_final_blows": "15",
+        "multikills": "2",
+        "objective_kills": "501",
+        "objective_time": "01:33:03",
+        "solo_kills": "61",
+        "time_spent_on_fire": "04:30:39",
+        "weapon_accuracy": "27%"
+      },
+      "assists": {
+        "defensive_assists": "410",
+        "defensive_assists_avg_per_10_min": "6.36",
+        "defensive_assists_most_in_game": "15",
+        "healing_done": "498186",
+        "healing_done_most_in_game": "3937",
+        "offensive_assists": "59",
+        "offensive_assists_avg_per_10_min": "0.92",
+        "offensive_assists_most_in_game": "5"
+      },
+      "best": {
+        "all_damage_done_most_in_game": "6172",
+        "all_damage_done_most_in_life": "3207",
+        "critical_hits_most_in_game": "26",
+        "critical_hits_most_in_life": "12",
+        "eliminations_most_in_game": "30",
+        "eliminations_most_in_life": "18",
+        "final_blows_most_in_game": "11",
+        "hero_damage_done_most_in_game": "240",
+        "hero_damage_done_most_in_life": "240",
+        "kill_streak_best": "18",
+        "melee_final_blow_most_in_game": "1",
+        "multikill_best": "3",
+        "objective_kills_most_in_game": "21",
+        "objective_time_most_in_game": "04:46",
+        "solo_kills_most_in_game": "8",
+        "weapon_accuracy_best_in_game": "47%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "3471",
+        "critical_hits_avg_per_10_min": "9.89",
+        "deaths_avg_per_10_min": "8.75",
+        "eliminations_avg_per_10_min": "14.51",
+        "eliminations_per_life": "1.66",
+        "final_blows_avg_per_10_min": "3.85",
+        "healing_done_avg_per_10_min": "7733",
+        "hero_damage_done_avg_per_10_min": "4746",
+        "melee_final_blows_avg_per_10_min": "0.23",
+        "objective_kills_avg_per_10_min": "7.78",
+        "objective_time_avg_per_10_min": "01:27",
+        "solo_kills_avg_per_10_min": "0.95",
+        "time_spent_on_fire_avg_per_10_min": "04:12"
+      },
+      "game": {
+        "games_lost": "30",
+        "games_played": "69",
+        "games_won": "38",
+        "time_played": "10:44:14",
+        "win_percentage": "56%"
+      },
+      "miscellaneous": {
+        "turrets_destroyed": "15"
+      },
+      "match_awards": {
+        "medals_bronze": "42",
+        "medals_silver": "61",
+        "medals_gold": "98",
+        "medals": "202",
+        "cards": "39"
+      }
+    },
+    "mei": {
+      "hero_specific": {
+        "blizzard_kills": "39",
+        "blizzard_kills_avg_per_10_min": "4.75",
+        "blizzard_kills_most_in_game": "7",
+        "damage_blocked": "19634",
+        "damage_blocked_avg_per_10_min": "2390",
+        "damage_blocked_most_in_game": "3100",
+        "enemies_frozen": "64",
+        "enemies_frozen_avg_per_10_min": "7.79",
+        "enemies_frozen_most_in_game": "17",
+        "self_healing": "7247",
+        "self_healing_avg_per_10_min": "882",
+        "self_healing_most_in_game": "1347"
+      },
+      "combat": {
+        "all_damage_done": "38594",
+        "critical_hit_accuracy": "18%",
+        "critical_hits": "64",
+        "deaths": "75",
+        "eliminations": "131",
+        "final_blows": "63",
+        "melee_final_blows": "2",
+        "multikills": "3",
+        "objective_kills": "51",
+        "objective_time": "07:54",
+        "solo_kills": "18",
+        "time_spent_on_fire": "05:43",
+        "weapon_accuracy": "31%"
+      },
+      "assists": {},
+      "best": {
+        "all_damage_done_most_in_game": "7509",
+        "all_damage_done_most_in_life": "2606",
+        "critical_hits_most_in_game": "12",
+        "critical_hits_most_in_life": "5",
+        "eliminations_most_in_game": "24",
+        "eliminations_most_in_life": "8",
+        "final_blows_most_in_game": "12",
+        "kill_streak_best": "8",
+        "melee_final_blow_most_in_game": "1",
+        "multikill_best": "4",
+        "objective_kills_most_in_game": "9",
+        "objective_time_most_in_game": "01:31",
+        "solo_kills_most_in_game": "4",
+        "weapon_accuracy_best_in_game": "100%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "4698",
+        "critical_hits_avg_per_10_min": "7.79",
+        "deaths_avg_per_10_min": "9.13",
+        "eliminations_avg_per_10_min": "15.95",
+        "eliminations_per_life": "1.75",
+        "final_blows_avg_per_10_min": "7.67",
+        "healing_done_avg_per_10_min": "882",
+        "melee_final_blows_avg_per_10_min": "0.24",
+        "objective_kills_avg_per_10_min": "6.21",
+        "objective_time_avg_per_10_min": "00:58",
+        "solo_kills_avg_per_10_min": "2.19",
+        "time_spent_on_fire_avg_per_10_min": "00:42"
+      },
+      "game": {
+        "games_lost": "4",
+        "games_played": "11",
+        "games_won": "6",
+        "time_played": "01:22:09",
+        "win_percentage": "60%"
+      },
+      "miscellaneous": {
+        "turret_destroyed": "1"
+      },
+      "match_awards": {
+        "medals_bronze": "14",
+        "medals_silver": "8",
+        "medals_gold": "14",
+        "medals": "35",
+        "cards": "2"
+      }
+    },
+    "mercy": {
+      "hero_specific": {
+        "blaster_kills": "39",
+        "blaster_kills_avg_per_10_min": "0.38",
+        "blaster_kills_most_in_game": "6",
+        "players_resurrected": "773",
+        "players_resurrected_avg_per_10_min": "7.43",
+        "players_resurrected_most_in_game": "15",
+        "self_healing": "86548",
+        "self_healing_avg_per_10_min": "832",
+        "self_healing_most_in_game": "1892"
+      },
+      "combat": {
+        "all_damage_done": "13892",
+        "critical_hit_accuracy": "14%",
+        "critical_hits": "81",
+        "deaths": "768",
+        "eliminations": "42",
+        "final_blows": "16",
+        "melee_final_blows": "4",
+        "multikill": "1",
+        "objective_kills": "9",
+        "objective_time": "59:12",
+        "solo_kills": "6",
+        "time_spent_on_fire": "03:00:23",
+        "weapon_accuracy": "22%"
+      },
+      "assists": {
+        "defensive_assists": "1268",
+        "defensive_assists_avg_per_10_min": "12.20",
+        "defensive_assists_most_in_game": "23",
+        "healing_done": "760263",
+        "offensive_assists": "884",
+        "offensive_assists_avg_per_10_min": "8.50",
+        "offensive_assists_most_in_game": "31"
+      },
+      "best": {
+        "all_damage_done_most_in_game": "1002",
+        "all_damage_done_most_in_life": "520",
+        "critical_hits_most_in_game": "11",
+        "critical_hits_most_in_life": "6",
+        "eliminations_most_in_game": "6",
+        "eliminations_most_in_life": "4",
+        "final_blows_most_in_game": "2",
+        "kill_streak_best": "4",
+        "melee_final_blow_most_in_game": "1",
+        "multikill_best": "3",
+        "objective_kill_most_in_game": "1",
+        "objective_time_most_in_game": "01:47",
+        "solo_kill_most_in_game": "1",
+        "weapon_accuracy_best_in_game": "86%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "134",
+        "critical_hits_avg_per_10_min": "0.78",
+        "deaths_avg_per_10_min": "7.39",
+        "eliminations_avg_per_10_min": "0.40",
+        "eliminations_per_life": "0.05",
+        "final_blows_avg_per_10_min": "0.15",
+        "healing_done_avg_per_10_min": "7312",
+        "melee_final_blows_avg_per_10_min": "0.04",
+        "objective_kills_avg_per_10_min": "0.09",
+        "objective_time_avg_per_10_min": "00:34",
+        "solo_kills_avg_per_10_min": "0.06",
+        "time_spent_on_fire_avg_per_10_min": "01:44"
+      },
+      "game": {
+        "games_lost": "79",
+        "games_played": "141",
+        "games_won": "63",
+        "time_played": "17:19:45",
+        "win_percentage": "44%"
+      },
+      "miscellaneous": {
+        "turrets_destroyed": "5"
+      },
+      "match_awards": {
+        "medals_bronze": "34",
+        "medals_silver": "39",
+        "medals_gold": "116",
+        "medals": "190",
+        "cards": "71"
+      }
+    },
+    "pharah": {
+      "hero_specific": {
+        "barrage_kills": "732",
+        "barrage_kills_avg_per_10_min": "5.09",
+        "barrage_kills_most_in_game": "11",
+        "direct_hit_accuracy": "21%",
+        "rocket_direct_hits": "5744",
+        "rocket_direct_hits_avg_per_10_min": "39.92",
+        "rocket_direct_hits_most_in_game": "72"
+      },
+      "combat": {
+        "all_damage_done": "1394311",
+        "barrier_damage_done": "2812",
+        "deaths": "1548",
+        "eliminations": "3232",
+        "environmental_kills": "25",
+        "final_blows": "2153",
+        "hero_damage_done": "13174",
+        "melee_final_blows": "23",
+        "multikills": "50",
+        "objective_kills": "951",
+        "objective_time": "01:06:15",
+        "quick_melee_accuracy": "33%",
+        "solo_kills": "774",
+        "time_spent_on_fire": "04:28:19",
+        "weapon_accuracy": "50%"
+      },
+      "assists": {},
+      "best": {
+        "all_damage_done_most_in_game": "17895",
+        "all_damage_done_most_in_life": "11333",
+        "barrier_damage_done_most_in_game": "1212",
+        "eliminations_most_in_game": "37",
+        "eliminations_most_in_life": "20",
+        "final_blows_most_in_game": "30",
+        "hero_damage_done_most_in_game": "3722",
+        "hero_damage_done_most_in_life": "3055",
+        "kill_streak_best": "20",
+        "melee_final_blows_most_in_game": "2",
+        "multikill_best": "4",
+        "objective_kills_most_in_game": "16",
+        "objective_time_most_in_game": "01:35",
+        "solo_kills_most_in_game": "14",
+        "time_spent_on_fire_most_in_game": "05:25",
+        "weapon_accuracy_best_in_game": "79%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "9691",
+        "barrier_damage_done_avg_per_10_min": "1777",
+        "deaths_avg_per_10_min": "10.76",
+        "eliminations_avg_per_10_min": "22.46",
+        "eliminations_per_life": "2.09",
+        "final_blows_avg_per_10_min": "14.96",
+        "hero_damage_done_avg_per_10_min": "8325",
+        "melee_final_blows_avg_per_10_min": "0.16",
+        "objective_kills_avg_per_10_min": "6.61",
+        "objective_time_avg_per_10_min": "00:28",
+        "solo_kills_avg_per_10_min": "5.38",
+        "time_spent_on_fire_avg_per_10_min": "01:52"
+      },
+      "game": {
+        "games_lost": "88",
+        "games_played": "195",
+        "games_won": "107",
+        "time_played": "23:58:45",
+        "win_percentage": "55%"
+      },
+      "miscellaneous": {
+        "teleporter_pads_destroyed": "8",
+        "turrets_destroyed": "309"
+      },
+      "match_awards": {
+        "medals_bronze": "131",
+        "medals_silver": "159",
+        "medals_gold": "223",
+        "medals": "513",
+        "cards": "80"
+      }
+    },
+    "reaper": {
+      "hero_specific": {
+        "death_blossom_kills": "1632",
+        "death_blossom_kills_avg_per_10_min": "6.02",
+        "death_blossom_kills_most_in_game": "19",
+        "self_healing": "165901",
+        "self_healing_avg_per_10_min": "612",
+        "self_healing_most_in_game": "1414"
+      },
+      "combat": {
+        "all_damage_done": "2370700",
+        "critical_hit_accuracy": "10%",
+        "critical_hits": "28348",
+        "deaths": "2570",
+        "eliminations": "6467",
+        "environmental_kill": "1",
+        "final_blows": "4196",
+        "melee_final_blows": "73",
+        "multikills": "181",
+        "objective_kills": "2243",
+        "objective_time": "03:14:24",
+        "solo_kills": "1632",
+        "time_spent_on_fire": "11:58:53",
+        "weapon_accuracy": "24%"
+      },
+      "assists": {},
+      "best": {
+        "all_damage_done_most_in_game": "21507",
+        "all_damage_done_most_in_life": "7906",
+        "critical_hits_most_in_game": "242",
+        "critical_hits_most_in_life": "109",
+        "eliminations_most_in_game": "62",
+        "eliminations_most_in_life": "25",
+        "final_blows_most_in_game": "38",
+        "kill_streak_best": "25",
+        "melee_final_blows_most_in_game": "3",
+        "multikill_best": "5",
+        "objective_kills_most_in_game": "36",
+        "objective_time_most_in_game": "04:09",
+        "solo_kills_most_in_game": "19",
+        "time_spent_on_fire_most_in_game": "01:34",
+        "weapon_accuracy_best_in_game": "60%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "8748",
+        "critical_hits_avg_per_10_min": "105",
+        "deaths_avg_per_10_min": "9.48",
+        "eliminations_avg_per_10_min": "23.86",
+        "eliminations_per_life": "2.52",
+        "final_blows_avg_per_10_min": "15.48",
+        "healing_done_avg_per_10_min": "612",
+        "melee_final_blows_avg_per_10_min": "0.27",
+        "objective_kills_avg_per_10_min": "8.28",
+        "objective_time_avg_per_10_min": "00:43",
+        "solo_kills_avg_per_10_min": "6.02",
+        "time_spent_on_fire_avg_per_10_min": "02:39"
+      },
+      "game": {
+        "games_lost": "141",
+        "games_played": "333",
+        "games_won": "193",
+        "time_played": "45:09:51",
+        "win_percentage": "58%"
+      },
+      "miscellaneous": {
+        "teleporter_pads_destroyed": "13",
+        "turrets_destroyed": "253"
+      },
+      "match_awards": {
+        "medals_bronze": "348",
+        "medals_silver": "327",
+        "medals_gold": "494",
+        "medals": "1170",
+        "cards": "141"
+      }
+    },
+    "reinhardt": {
+      "hero_specific": {
+        "charge_kills": "140",
+        "charge_kills_avg_per_10_min": "1.92",
+        "charge_kills_most_in_game": "6",
+        "damage_blocked": "1346358",
+        "damage_blocked_avg_per_10_min": "18453",
+        "damage_blocked_most_in_game": "26239",
+        "earthshatter_kills": "217",
+        "earthshatter_kills_avg_per_10_min": "2.97",
+        "earthshatter_kills_most_in_game": "10",
+        "fire_strike_kills": "181",
+        "fire_strike_kills_avg_per_10_min": "2.48",
+        "fire_strike_kills_most_in_game": "11"
+      },
+      "combat": {
+        "all_damage_done": "330868",
+        "deaths": "717",
+        "eliminations": "899",
+        "environmental_kills": "2",
+        "final_blows": "535",
+        "multikills": "15",
+        "objective_kills": "333",
+        "objective_time": "02:15:21",
+        "solo_kills": "122",
+        "time_spent_on_fire": "02:07:49"
+      },
+      "assists": {},
+      "best": {
+        "all_damage_done_most_in_game": "10408",
+        "all_damage_done_most_in_life": "4427",
+        "eliminations_most_in_game": "32",
+        "eliminations_most_in_life": "13",
+        "final_blows_most_in_game": "20",
+        "kill_streak_best": "13",
+        "multikill_best": "4",
+        "objective_kills_most_in_game": "13",
+        "objective_time_most_in_game": "03:42",
+        "solo_kills_most_in_game": "6"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "4535",
+        "deaths_avg_per_10_min": "9.83",
+        "eliminations_avg_per_10_min": "12.32",
+        "eliminations_per_life": "1.25",
+        "final_blows_avg_per_10_min": "7.33",
+        "objective_kills_avg_per_10_min": "4.56",
+        "objective_time_avg_per_10_min": "01:51",
+        "solo_kills_avg_per_10_min": "1.67",
+        "time_spent_on_fire_avg_per_10_min": "01:45"
+      },
+      "game": {
+        "games_lost": "47",
+        "games_played": "92",
+        "games_won": "45",
+        "time_played": "12:09:37",
+        "win_percentage": "49%"
+      },
+      "miscellaneous": {
+        "teleporter_pads_destroyed": "3",
+        "turrets_destroyed": "49"
+      },
+      "match_awards": {
+        "medals_bronze": "50",
+        "medals_silver": "53",
+        "medals_gold": "80",
+        "medals": "183",
+        "cards": "59"
+      }
+    },
+    "roadhog": {
+      "hero_specific": {
+        "enemies_hooked": "549",
+        "enemies_hooked_avg_per_10_min": "14.85",
+        "enemies_hooked_most_in_game": "31",
+        "hook_accuracy": "50%",
+        "hook_accuracy_best_in_game": "100%",
+        "hooks_attempted": "1105",
+        "self_healing": "112334",
+        "self_healing_avg_per_10_min": "3039",
+        "self_healing_most_in_game": "4865",
+        "whole_hog_kills": "129",
+        "whole_hog_kills_avg_per_10_min": "3.49",
+        "whole_hog_kills_most_in_game": "12"
+      },
+      "combat": {
+        "all_damage_done": "311369",
+        "barrier_damage_done": "3702",
+        "critical_hit_accuracy": "15%",
+        "critical_hits": "2814",
+        "deaths": "337",
+        "eliminations": "761",
+        "environmental_kills": "6",
+        "final_blows": "440",
+        "hero_damage_done": "14539",
+        "melee_final_blows": "33",
+        "multikills": "2",
+        "objective_kills": "231",
+        "objective_time": "28:14",
+        "quick_melee_accuracy": "5%",
+        "solo_kills": "119",
+        "time_spent_on_fire": "55:34",
+        "weapon_accuracy": "36%"
+      },
+      "assists": {
+        "offensive_assists": "14",
+        "offensive_assists_avg_per_10_min": "0.38",
+        "offensive_assists_most_in_game": "7"
+      },
+      "best": {
+        "all_damage_done_most_in_game": "17011",
+        "all_damage_done_most_in_life": "5241",
+        "barrier_damage_done_most_in_game": "1642",
+        "critical_hits_most_in_game": "181",
+        "critical_hits_most_in_life": "75",
+        "eliminations_most_in_game": "38",
+        "eliminations_most_in_life": "16",
+        "final_blows_most_in_game": "22",
+        "hero_damage_done_most_in_game": "5281",
+        "hero_damage_done_most_in_life": "1954",
+        "kill_streak_best": "16",
+        "melee_final_blows_most_in_game": "5",
+        "multikill_best": "3",
+        "objective_kills_most_in_game": "18",
+        "objective_time_most_in_game": "02:21",
+        "solo_kills_most_in_game": "9",
+        "time_spent_on_fire_most_in_game": "01:18",
+        "weapon_accuracy_best_in_game": "78%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "8424",
+        "barrier_damage_done_avg_per_10_min": "1764",
+        "critical_hits_avg_per_10_min": "76.13",
+        "deaths_avg_per_10_min": "9.12",
+        "eliminations_avg_per_10_min": "20.59",
+        "eliminations_per_life": "2.26",
+        "final_blows_avg_per_10_min": "11.90",
+        "healing_done_avg_per_10_min": "3039",
+        "hero_damage_done_avg_per_10_min": "6927",
+        "melee_final_blows_avg_per_10_min": "0.89",
+        "objective_kills_avg_per_10_min": "6.25",
+        "objective_time_avg_per_10_min": "00:46",
+        "solo_kills_avg_per_10_min": "3.22",
+        "time_spent_on_fire_avg_per_10_min": "01:30"
+      },
+      "game": {
+        "games_lost": "23",
+        "games_played": "49",
+        "games_won": "26",
+        "time_played": "06:09:38",
+        "win_percentage": "53%"
+      },
+      "miscellaneous": {
+        "turrets_destroyed": "8"
+      },
+      "match_awards": {
+        "medals_bronze": "68",
+        "medals_silver": "63",
+        "medals_gold": "41",
+        "medals": "172",
+        "cards": "10"
+      }
+    },
+    "soldier_76": {
+      "hero_specific": {
+        "biotic_field_healing_done": "56355",
+        "biotic_fields_deployed": "632",
+        "helix_rocket_kills": "446",
+        "helix_rocket_kills_avg_per_10_min": "8.11",
+        "helix_rocket_kills_most_in_game": "16",
+        "self_healing": "41252",
+        "self_healing_avg_per_10_min": "750",
+        "self_healing_most_in_game": "1373",
+        "tactical_visor_kills": "266",
+        "tactical_visor_kills_avg_per_10_min": "4.84",
+        "tactical_visor_kills_most_in_game": "8"
+      },
+      "combat": {
+        "all_damage_done": "513588",
+        "barrier_damage_done": "623",
+        "critical_hit_accuracy": "6%",
+        "critical_hits": "1453",
+        "deaths": "547",
+        "eliminations": "1263",
+        "final_blows": "762",
+        "hero_damage_done": "4666",
+        "melee_final_blows": "9",
+        "multikills": "15",
+        "objective_kills": "374",
+        "objective_time": "26:47",
+        "quick_melee_accuracy": "50%",
+        "solo_kills": "237",
+        "time_spent_on_fire": "01:20:45",
+        "weapon_accuracy": "39%"
+      },
+      "assists": {
+        "defensive_assist": "1",
+        "defensive_assist_most_in_game": "1",
+        "defensive_assists_avg_per_10_min": "0.02",
+        "healing_done": "56355",
+        "healing_done_most_in_game": "1907"
+      },
+      "best": {
+        "all_damage_done_most_in_game": "16295",
+        "all_damage_done_most_in_life": "7323",
+        "barrier_damage_done_most_in_game": "509",
+        "critical_hits_most_in_game": "52",
+        "critical_hits_most_in_life": "27",
+        "eliminations_most_in_game": "41",
+        "eliminations_most_in_life": "23",
+        "final_blows_most_in_game": "31",
+        "hero_damage_done_most_in_game": "1733",
+        "hero_damage_done_most_in_life": "1014",
+        "kill_streak_best": "23",
+        "melee_final_blows_most_in_game": "2",
+        "multikill_best": "4",
+        "objective_kills_most_in_game": "13",
+        "objective_time_most_in_game": "01:39",
+        "solo_kills_most_in_game": "13",
+        "time_spent_on_fire_most_in_game": "04:48",
+        "weapon_accuracy_best_in_game": "71%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "9342",
+        "barrier_damage_done_avg_per_10_min": "1144",
+        "critical_hits_avg_per_10_min": "26.43",
+        "deaths_avg_per_10_min": "9.95",
+        "eliminations_avg_per_10_min": "22.97",
+        "eliminations_per_life": "2.31",
+        "final_blows_avg_per_10_min": "13.86",
+        "healing_done_avg_per_10_min": "1025",
+        "hero_damage_done_avg_per_10_min": "8570",
+        "melee_final_blows_avg_per_10_min": "0.16",
+        "objective_kills_avg_per_10_min": "6.80",
+        "objective_time_avg_per_10_min": "00:29",
+        "solo_kills_avg_per_10_min": "4.31",
+        "time_spent_on_fire_avg_per_10_min": "01:28"
+      },
+      "game": {
+        "games_lost": "39",
+        "games_played": "72",
+        "games_won": "32",
+        "time_played": "09:09:45",
+        "win_percentage": "45%"
+      },
+      "miscellaneous": {
+        "turrets_destroyed": "36"
+      },
+      "match_awards": {
+        "medals_bronze": "69",
+        "medals_silver": "90",
+        "medals_gold": "95",
+        "medals": "254",
+        "cards": "23"
+      }
+    },
+    "sombra": {
+      "hero_specific": {
+        "enemies_emp'd": "15",
+        "enemies_emp'd_avg_per_10_min": "7.42",
+        "enemies_emp'd_most_in_game": "5",
+        "enemies_hacked": "18",
+        "enemies_hacked_avg_per_10_min": "8.91",
+        "enemies_hacked_most_in_game": "7"
+      },
+      "combat": {
+        "all_damage_done": "11151",
+        "deaths": "27",
+        "eliminations": "13",
+        "final_blows": "8",
+        "hero_damage_done": "24",
+        "melee_final_blows": "2",
+        "objective_kills": "5",
+        "objective_time": "00:54",
+        "solo_kills": "4",
+        "weapon_accuracy": "36%"
+      },
+      "assists": {},
+      "best": {
+        "all_damage_done_most_in_game": "3933",
+        "all_damage_done_most_in_life": "2204",
+        "eliminations_most_in_game": "4",
+        "eliminations_most_in_life": "3",
+        "final_blows_most_in_game": "2",
+        "hero_damage_done_most_in_game": "24",
+        "hero_damage_done_most_in_life": "24",
+        "kill_streak_best": "3",
+        "melee_final_blows_most_in_game": "2",
+        "objective_kills_most_in_game": "3",
+        "objective_time_most_in_game": "00:25",
+        "solo_kills_most_in_game": "2",
+        "weapon_accuracy_best_in_game": "45%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "5517",
+        "deaths_avg_per_10_min": "13.36",
+        "eliminations_avg_per_10_min": "6.43",
+        "eliminations_per_life": "0.48",
+        "final_blows_avg_per_10_min": "3.96",
+        "healing_done_avg_per_10_min": "604",
+        "hero_damage_done_avg_per_10_min": "867",
+        "melee_final_blows_avg_per_10_min": "0.99",
+        "objective_kills_avg_per_10_min": "2.47",
+        "objective_time_avg_per_10_min": "00:27",
+        "solo_kills_avg_per_10_min": "1.98"
+      },
+      "game": {
+        "games_lost": "2",
+        "games_played": "2",
+        "games_won": "0",
+        "time_played": "20:13",
+        "win_percentage": "7%"
+      },
+      "miscellaneous": {
+        "turrets_destroyed": "7"
+      },
+      "match_awards": {
+        "medals_bronze": "3",
+        "medals_silver": "2",
+        "medals_gold": "2",
+        "medals": "7"
+      }
+    },
+    "symmetra": {
+      "hero_specific": {
+        "players_teleported": "229",
+        "players_teleported_avg_per_10_min": "10.98",
+        "players_teleported_most_in_game": "14",
+        "sentry_turret_kills": "232",
+        "sentry_turret_kills_avg_per_10_min": "11.12",
+        "sentry_turret_kills_most_in_game": "16"
+      },
+      "combat": {
+        "all_damage_done": "131350",
+        "deaths": "154",
+        "eliminations": "350",
+        "final_blows": "154",
+        "multikills": "3",
+        "objective_kills": "139",
+        "objective_time": "07:48",
+        "solo_kills": "43",
+        "time_spent_on_fire": "08:32"
+      },
+      "assists": {},
+      "best": {
+        "all_damage_done_most_in_game": "10420",
+        "all_damage_done_most_in_life": "7076",
+        "eliminations_most_in_game": "22",
+        "eliminations_most_in_life": "19",
+        "final_blows_most_in_game": "13",
+        "kill_streak_best": "19",
+        "multikill_best": "3",
+        "objective_kills_most_in_game": "11",
+        "objective_time_most_in_game": "01:04",
+        "solo_kills_most_in_game": "6"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "6298",
+        "deaths_avg_per_10_min": "7.38",
+        "eliminations_avg_per_10_min": "16.78",
+        "eliminations_per_life": "2.27",
+        "final_blows_avg_per_10_min": "7.38",
+        "objective_kills_avg_per_10_min": "6.66",
+        "objective_time_avg_per_10_min": "00:22",
+        "solo_kills_avg_per_10_min": "2.06",
+        "time_spent_on_fire_avg_per_10_min": "00:25"
+      },
+      "game": {
+        "games_lost": "17",
+        "games_played": "33",
+        "games_won": "16",
+        "time_played": "03:28:34",
+        "win_percentage": "50%"
+      },
+      "miscellaneous": {},
+      "match_awards": {
+        "medals_bronze": "34",
+        "medals_silver": "35",
+        "medals_gold": "23",
+        "medals": "92",
+        "cards": "13"
+      }
+    },
+    "torbjorn": {
+      "hero_specific": {
+        "armor_packs_created": "363",
+        "armor_packs_created_avg_per_10_min": "16.99",
+        "molten_core_kills": "69",
+        "molten_core_kills_avg_per_10_min": "3.23",
+        "molten_core_kills_most_in_game": "6",
+        "torbjörn_kills": "198",
+        "torbjörn_kills_avg_per_10_min": "9.27",
+        "torbjörn_kills_most_in_game": "24",
+        "turret_kills": "322",
+        "turret_kills_avg_per_10_min": "15.07"
+      },
+      "combat": {
+        "all_damage_done": "177555",
+        "critical_hit_accuracy": "6%",
+        "critical_hits": "263",
+        "deaths": "136",
+        "eliminations": "431",
+        "final_blows": "172",
+        "melee_final_blows": "5",
+        "multikills": "7",
+        "objective_kills": "136",
+        "objective_time": "03:30",
+        "solo_kills": "51",
+        "time_spent_on_fire": "27:36",
+        "weapon_accuracy": "31%"
+      },
+      "assists": {},
+      "best": {
+        "all_damage_done_most_in_game": "15388",
+        "all_damage_done_most_in_life": "7829",
+        "critical_hits_most_in_game": "40",
+        "critical_hits_most_in_life": "16",
+        "eliminations_most_in_game": "34",
+        "eliminations_most_in_life": "18",
+        "final_blows_most_in_game": "18",
+        "kill_streak_best": "18",
+        "melee_final_blow_most_in_game": "1",
+        "multikill_best": "4",
+        "objective_kills_most_in_game": "15",
+        "objective_time_most_in_game": "00:27",
+        "solo_kills_most_in_game": "8",
+        "weapon_accuracy_best_in_game": "74%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "8310",
+        "critical_hits_avg_per_10_min": "12.31",
+        "deaths_avg_per_10_min": "6.37",
+        "eliminations_avg_per_10_min": "20.17",
+        "eliminations_per_life": "3.17",
+        "final_blows_avg_per_10_min": "8.05",
+        "melee_final_blows_avg_per_10_min": "0.23",
+        "objective_kills_avg_per_10_min": "6.37",
+        "objective_time_avg_per_10_min": "00:10",
+        "solo_kills_avg_per_10_min": "2.39",
+        "time_spent_on_fire_avg_per_10_min": "01:17"
+      },
+      "game": {
+        "games_lost": "13",
+        "games_played": "31",
+        "games_won": "18",
+        "time_played": "03:33:39",
+        "win_percentage": "57%"
+      },
+      "miscellaneous": {
+        "turrets_destroyed": "9"
+      },
+      "match_awards": {
+        "medals_bronze": "28",
+        "medals_silver": "18",
+        "medals_gold": "32",
+        "medals": "78",
+        "cards": "15"
+      }
+    },
+    "tracer": {
+      "hero_specific": {
+        "health_recovered": "5369",
+        "health_recovered_avg_per_10_min": "164",
+        "health_recovered_most_in_game": "863",
+        "pulse_bomb_kills": "85",
+        "pulse_bomb_kills_avg_per_10_min": "2.59",
+        "pulse_bomb_kills_most_in_game": "7",
+        "pulse_bombs_attached": "55",
+        "pulse_bombs_attached_avg_per_10_min": "1.68",
+        "pulse_bombs_attached_most_in_game": "4",
+        "self_healing": "26113",
+        "self_healing_avg_per_10_min": "797",
+        "self_healing_most_in_game": "966"
+      },
+      "combat": {
+        "all_damage_done": "223295",
+        "barrier_damage_done": "4377",
+        "critical_hit_accuracy": "9%",
+        "critical_hits": "3109",
+        "deaths": "368",
+        "eliminations": "654",
+        "final_blows": "361",
+        "hero_damage_done": "42694",
+        "melee_final_blows": "23",
+        "multikills": "5",
+        "objective_kills": "190",
+        "objective_time": "20:38",
+        "quick_melee_accuracy": "20%",
+        "solo_kills": "143",
+        "time_spent_on_fire": "26:49",
+        "weapon_accuracy": "34%"
+      },
+      "assists": {},
+      "best": {
+        "all_damage_done_most_in_game": "11263",
+        "all_damage_done_most_in_life": "4801",
+        "barrier_damage_done_most_in_game": "1048",
+        "critical_hits_most_in_game": "195",
+        "critical_hits_most_in_life": "67",
+        "eliminations_most_in_game": "32",
+        "eliminations_most_in_life": "19",
+        "final_blows_most_in_game": "18",
+        "hero_damage_done_most_in_game": "4801",
+        "hero_damage_done_most_in_life": "4801",
+        "kill_streak_best": "19",
+        "melee_final_blows_most_in_game": "2",
+        "multikill_best": "4",
+        "objective_kills_most_in_game": "14",
+        "objective_time_most_in_game": "00:55",
+        "solo_kills_most_in_game": "10",
+        "time_spent_on_fire_most_in_game": "03:06",
+        "weapon_accuracy_best_in_game": "75%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "6815",
+        "barrier_damage_done_avg_per_10_min": "653",
+        "critical_hits_avg_per_10_min": "94.89",
+        "deaths_avg_per_10_min": "11.23",
+        "eliminations_avg_per_10_min": "19.96",
+        "eliminations_per_life": "1.78",
+        "final_blows_avg_per_10_min": "11.02",
+        "hero_damage_done_avg_per_10_min": "6366",
+        "melee_final_blows_avg_per_10_min": "0.70",
+        "objective_kills_avg_per_10_min": "5.80",
+        "objective_time_avg_per_10_min": "00:38",
+        "solo_kills_avg_per_10_min": "4.36",
+        "time_spent_on_fire_avg_per_10_min": "00:49"
+      },
+      "game": {
+        "games_lost": "26",
+        "games_played": "51",
+        "games_won": "25",
+        "time_played": "05:27:38",
+        "win_percentage": "49%"
+      },
+      "miscellaneous": {
+        "teleporter_pads_destroyed": "9",
+        "turrets_destroyed": "40"
+      },
+      "match_awards": {
+        "medals_bronze": "38",
+        "medals_silver": "43",
+        "medals_gold": "33",
+        "medals": "114",
+        "cards": "12"
+      }
+    },
+    "widowmaker": {
+      "hero_specific": {
+        "scoped_accuracy": "42%",
+        "scoped_accuracy_best_in_game": "100%",
+        "scoped_critical_hit_accuracy": "19%",
+        "scoped_critical_hits": "171",
+        "scoped_critical_hits_avg_per_10_min": "8.89",
+        "scoped_critical_hits_most_in_game": "13",
+        "venom_mine_kills": "8",
+        "venom_mine_kills_avg_per_10_min": "0.42",
+        "venom_mine_kills_most_in_game": "2"
+      },
+      "combat": {
+        "all_damage_done": "107833",
+        "barrier_damage_done": "2027",
+        "critical_hit_accuracy": "16%",
+        "critical_hits": "232",
+        "deaths": "183",
+        "eliminations": "283",
+        "final_blows": "198",
+        "hero_damage_done": "12975",
+        "melee_final_blows": "6",
+        "objective_kills": "79",
+        "objective_time": "02:58",
+        "solo_kills": "84",
+        "time_spent_on_fire": "17:57",
+        "weapon_accuracy": "32%"
+      },
+      "assists": {
+        "recon_assists": "12",
+        "recon_assists_avg_per_10_min": "0.62",
+        "recon_assists_most_in_game": "14"
+      },
+      "best": {
+        "all_damage_done_most_in_game": "6475",
+        "all_damage_done_most_in_life": "3707",
+        "barrier_damage_done_most_in_game": "949",
+        "critical_hits_most_in_game": "15",
+        "critical_hits_most_in_life": "8",
+        "eliminations_most_in_game": "22",
+        "eliminations_most_in_life": "16",
+        "final_blows_most_in_game": "16",
+        "hero_damage_done_most_in_game": "5419",
+        "hero_damage_done_most_in_life": "3182",
+        "kill_streak_best": "16",
+        "melee_final_blow_most_in_game": "1",
+        "objective_kills_most_in_game": "6",
+        "objective_time_most_in_game": "00:32",
+        "solo_kills_most_in_game": "9",
+        "time_spent_on_fire_most_in_game": "02:23",
+        "weapon_accuracy_best_in_game": "54%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "5608",
+        "barrier_damage_done_avg_per_10_min": "976",
+        "critical_hits_avg_per_10_min": "12.06",
+        "deaths_avg_per_10_min": "9.52",
+        "eliminations_avg_per_10_min": "14.72",
+        "eliminations_per_life": "1.55",
+        "final_blows_avg_per_10_min": "10.30",
+        "hero_damage_done_avg_per_10_min": "6249",
+        "melee_final_blows_avg_per_10_min": "0.31",
+        "objective_kills_avg_per_10_min": "4.11",
+        "objective_time_avg_per_10_min": "00:09",
+        "solo_kills_avg_per_10_min": "4.37",
+        "time_spent_on_fire_avg_per_10_min": "00:56"
+      },
+      "game": {
+        "games_lost": "21",
+        "games_played": "28",
+        "games_won": "7",
+        "time_played": "03:12:18",
+        "win_percentage": "26%"
+      },
+      "miscellaneous": {
+        "teleporter_pads_destroyed": "2",
+        "turrets_destroyed": "4"
+      },
+      "match_awards": {
+        "medals_bronze": "18",
+        "medals_silver": "13",
+        "medals_gold": "17",
+        "medals": "49",
+        "cards": "2"
+      }
+    },
+    "winston": {
+      "hero_specific": {
+        "damage_blocked": "306470",
+        "damage_blocked_avg_per_10_min": "6937",
+        "damage_blocked_most_in_game": "9740",
+        "jump_pack_kills": "243",
+        "jump_pack_kills_avg_per_10_min": "5.50",
+        "jump_pack_kills_most_in_game": "11",
+        "melee_kills": "193",
+        "melee_kills_avg_per_10_min": "4.37",
+        "melee_kills_most_in_game": "8",
+        "players_knocked_back": "1885",
+        "players_knocked_back_avg_per_10_min": "42.67",
+        "players_knocked_back_most_in_game": "82",
+        "primal_rage_kills": "121",
+        "primal_rage_kills_avg_per_10_min": "2.74",
+        "primal_rage_kills_most_in_game": "8",
+        "tesla_cannon_accuracy": "67%"
+      },
+      "combat": {
+        "all_damage_done": "280185",
+        "barrier_damage_done": "60",
+        "deaths": "423",
+        "eliminations": "972",
+        "environmental_kills": "13",
+        "final_blows": "483",
+        "hero_damage_done": "1509",
+        "melee_final_blows": "20",
+        "multikills": "10",
+        "objective_kills": "293",
+        "objective_time": "49:22",
+        "solo_kills": "157",
+        "time_spent_on_fire": "51:47"
+      },
+      "assists": {},
+      "best": {
+        "all_damage_done_most_in_game": "11939",
+        "all_damage_done_most_in_life": "4658",
+        "barrier_damage_done_most_in_game": "54",
+        "eliminations_most_in_game": "41",
+        "eliminations_most_in_life": "19",
+        "final_blows_most_in_game": "24",
+        "hero_damage_done_most_in_game": "856",
+        "hero_damage_done_most_in_life": "856",
+        "kill_streak_best": "19",
+        "melee_final_blows_most_in_game": "3",
+        "multikill_best": "4",
+        "objective_kills_most_in_game": "17",
+        "objective_time_most_in_game": "02:05",
+        "solo_kills_most_in_game": "9",
+        "time_spent_on_fire_most_in_game": "00:44"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "6342",
+        "barrier_damage_done_avg_per_10_min": "219",
+        "deaths_avg_per_10_min": "9.57",
+        "eliminations_avg_per_10_min": "22.00",
+        "eliminations_per_life": "2.30",
+        "final_blows_avg_per_10_min": "10.93",
+        "hero_damage_done_avg_per_10_min": "5539",
+        "melee_final_blows_avg_per_10_min": "0.45",
+        "objective_kills_avg_per_10_min": "6.63",
+        "objective_time_avg_per_10_min": "01:07",
+        "solo_kills_avg_per_10_min": "3.55",
+        "time_spent_on_fire_avg_per_10_min": "01:10"
+      },
+      "game": {
+        "games_lost": "21",
+        "games_played": "58",
+        "games_won": "37",
+        "time_played": "07:21:47",
+        "win_percentage": "64%"
+      },
+      "miscellaneous": {
+        "teleporter_pads_destroyed": "3",
+        "turrets_destroyed": "58"
+      },
+      "match_awards": {
+        "medals_bronze": "43",
+        "medals_silver": "56",
+        "medals_gold": "50",
+        "medals": "148",
+        "cards": "15"
+      }
+    },
+    "wrecking_ball": {
+      "hero_specific": {
+        "piledriver_kill": "1",
+        "piledriver_kill_most_in_game": "1",
+        "piledriver_kills_avg_per_10_min": "17.06",
+        "players_knocked_back": "2",
+        "players_knocked_back_avg_per_10_min": "34.12",
+        "players_knocked_back_most_in_game": "2"
+      },
+      "combat": {
+        "all_damage_done": "479",
+        "elimination": "1",
+        "final_blow": "1",
+        "hero_damage_done": "479",
+        "objective_time": "00:12",
+        "solo_kill": "1",
+        "weapon_accuracy": "60%"
+      },
+      "assists": {},
+      "best": {
+        "all_damage_done_most_in_game": "479",
+        "all_damage_done_most_in_life": "479",
+        "elimination_most_in_game": "1",
+        "elimination_most_in_life": "1",
+        "final_blow_most_in_game": "1",
+        "hero_damage_done_most_in_game": "479",
+        "hero_damage_done_most_in_life": "479",
+        "kill_streak_best": "1",
+        "objective_time_most_in_game": "00:12",
+        "solo_kill_most_in_game": "1",
+        "weapon_accuracy_best_in_game": "60%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "8175",
+        "eliminations_avg_per_10_min": "17.06",
+        "final_blows_avg_per_10_min": "17.06",
+        "hero_damage_done_avg_per_10_min": "8175",
+        "objective_time_avg_per_10_min": "03:18",
+        "solo_kills_avg_per_10_min": "17.06"
+      },
+      "game": {
+        "games_lost": "0",
+        "games_played": "0",
+        "time_played": "00:35"
+      },
+      "miscellaneous": {},
+      "match_awards": {
+        "medals_gold": "0",
+        "medals": "0"
+      }
+    },
+    "zarya": {
+      "hero_specific": {
+        "average_energy": "26%",
+        "average_energy_best_in_game": "65%",
+        "damage_blocked": "127695",
+        "damage_blocked_avg_per_10_min": "4327",
+        "damage_blocked_most_in_game": "7122",
+        "graviton_surge_kills": "160",
+        "graviton_surge_kills_avg_per_10_min": "5.42",
+        "graviton_surge_kills_most_in_game": "13",
+        "high_energy_kills": "294",
+        "high_energy_kills_avg_per_10_min": "9.96",
+        "high_energy_kills_most_in_game": "28",
+        "primary_fire_accuracy": "58%",
+        "projected_barriers_applied": "633",
+        "projected_barriers_applied_avg_per_10_min": "21.45",
+        "projected_barriers_applied_most_in_game": "40"
+      },
+      "combat": {
+        "all_damage_done": "266524",
+        "barrier_damage_done": "2816",
+        "deaths": "232",
+        "eliminations": "654",
+        "final_blows": "266",
+        "hero_damage_done": "12039",
+        "melee_final_blows": "8",
+        "multikills": "23",
+        "objective_kills": "181",
+        "objective_time": "20:37",
+        "solo_kills": "46",
+        "time_spent_on_fire": "40:58",
+        "weapon_accuracy": "49%"
+      },
+      "assists": {
+        "defensive_assists": "13",
+        "defensive_assists_avg_per_10_min": "0.44",
+        "defensive_assists_most_in_game": "8",
+        "offensive_assists": "20",
+        "offensive_assists_avg_per_10_min": "0.68",
+        "offensive_assists_most_in_game": "8"
+      },
+      "best": {
+        "all_damage_done_most_in_game": "18162",
+        "all_damage_done_most_in_life": "6856",
+        "barrier_damage_done_most_in_game": "1463",
+        "eliminations_most_in_game": "38",
+        "eliminations_most_in_life": "21",
+        "final_blows_most_in_game": "19",
+        "hero_damage_done_most_in_game": "8647",
+        "hero_damage_done_most_in_life": "2532",
+        "kill_streak_best": "21",
+        "melee_final_blows_most_in_game": "2",
+        "multikill_best": "4",
+        "objective_kills_most_in_game": "14",
+        "objective_time_most_in_game": "02:36",
+        "solo_kills_most_in_game": "5",
+        "time_spent_on_fire_most_in_game": "05:30",
+        "weapon_accuracy_best_in_game": "79%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "9032",
+        "barrier_damage_done_avg_per_10_min": "2186",
+        "deaths_avg_per_10_min": "7.86",
+        "eliminations_avg_per_10_min": "22.16",
+        "eliminations_per_life": "2.82",
+        "final_blows_avg_per_10_min": "9.01",
+        "hero_damage_done_avg_per_10_min": "9345",
+        "melee_final_blows_avg_per_10_min": "0.27",
+        "objective_kills_avg_per_10_min": "6.13",
+        "objective_time_avg_per_10_min": "00:42",
+        "solo_kills_avg_per_10_min": "1.56",
+        "time_spent_on_fire_avg_per_10_min": "01:23"
+      },
+      "game": {
+        "games_lost": "24",
+        "games_played": "41",
+        "games_won": "18",
+        "time_played": "04:55:05",
+        "win_percentage": "42%"
+      },
+      "miscellaneous": {
+        "turrets_destroyed": "10"
+      },
+      "match_awards": {
+        "medals_bronze": "29",
+        "medals_silver": "26",
+        "medals_gold": "39",
+        "medals": "94",
+        "cards": "12"
+      }
+    },
+    "zenyatta": {
+      "hero_specific": {
+        "self_healing": "940",
+        "self_healing_avg_per_10_min": "55.75",
+        "self_healing_most_in_game": "344",
+        "transcendence_healing": "9693",
+        "transcendence_healing_best": "1307"
+      },
+      "combat": {
+        "all_damage_done": "33135",
+        "barrier_damage_done": "1293",
+        "critical_hit_accuracy": "16%",
+        "critical_hits": "95",
+        "deaths": "100",
+        "eliminations": "90",
+        "final_blows": "49",
+        "hero_damage_done": "12323",
+        "melee_final_blows": "4",
+        "objective_kills": "24",
+        "objective_time": "02:26",
+        "quick_melee_accuracy": "45%",
+        "solo_kills": "9",
+        "time_spent_on_fire": "12:39",
+        "weapon_accuracy": "8%"
+      },
+      "assists": {
+        "defensive_assists": "62",
+        "defensive_assists_avg_per_10_min": "3.68",
+        "defensive_assists_most_in_game": "14",
+        "healing_done": "27436",
+        "healing_done_most_in_game": "7363",
+        "offensive_assists": "53",
+        "offensive_assists_avg_per_10_min": "3.15",
+        "offensive_assists_most_in_game": "19"
+      },
+      "best": {
+        "all_damage_done_most_in_game": "9399",
+        "all_damage_done_most_in_life": "4423",
+        "barrier_damage_done_most_in_game": "920",
+        "critical_hits_most_in_game": "31",
+        "critical_hits_most_in_life": "17",
+        "eliminations_most_in_game": "24",
+        "eliminations_most_in_life": "12",
+        "final_blows_most_in_game": "17",
+        "hero_damage_done_most_in_game": "8433",
+        "hero_damage_done_most_in_life": "3871",
+        "kill_streak_best": "12",
+        "melee_final_blows_most_in_game": "3",
+        "objective_kills_most_in_game": "12",
+        "objective_time_most_in_game": "00:42",
+        "solo_kills_most_in_game": "5",
+        "time_spent_on_fire_most_in_game": "04:53",
+        "weapon_accuracy_best_in_game": "44%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "1966",
+        "barrier_damage_done_avg_per_10_min": "903",
+        "critical_hits_avg_per_10_min": "5.64",
+        "deaths_avg_per_10_min": "5.93",
+        "eliminations_avg_per_10_min": "5.34",
+        "eliminations_per_life": "0.90",
+        "final_blows_avg_per_10_min": "2.91",
+        "healing_done_avg_per_10_min": "1628",
+        "hero_damage_done_avg_per_10_min": "8607",
+        "melee_final_blows_avg_per_10_min": "0.24",
+        "objective_kills_avg_per_10_min": "1.42",
+        "objective_time_avg_per_10_min": "00:09",
+        "solo_kills_avg_per_10_min": "0.53",
+        "time_spent_on_fire_avg_per_10_min": "00:45"
+      },
+      "game": {
+        "games_lost": "22",
+        "games_played": "26",
+        "games_won": "5",
+        "time_played": "02:48:31",
+        "win_percentage": "17%"
+      },
+      "miscellaneous": {},
+      "match_awards": {
+        "medals_bronze": "12",
+        "medals_silver": "9",
+        "medals_gold": "7",
+        "medals": "28",
+        "cards": "4"
+      }
+    }
+  },
+  "competitive": {
+    "overall": {
+      "hero_specific": {},
+      "combat": {
+        "all_damage_done": "339021",
+        "barrier_damage_done": "87644",
+        "damage_done": "244227",
+        "deaths": "313",
+        "eliminations": "621",
+        "environmental_kills": "7",
+        "final_blows": "226",
+        "hero_damage_done": "244227",
+        "melee_final_blows": "15",
+        "multikills": "7",
+        "objective_kills": "239",
+        "objective_time": "56:22",
+        "solo_kills": "22",
+        "time_spent_on_fire": "31:48"
+      },
+      "assists": {
+        "defensive_assists": "50",
+        "healing_done": "2871",
+        "offensive_assists": "107"
+      },
+      "best": {
+        "all_damage_done_most_in_game": "20890",
+        "barrier_damage_done_most_in_game": "10537",
+        "defensive_assists_most_in_game": "11",
+        "eliminations_most_in_game": "38",
+        "environmental_kills_most_in_game": "2",
+        "final_blows_most_in_game": "19",
+        "healing_done_most_in_game": "1424",
+        "hero_damage_done_most_in_game": "14551",
+        "kill_streak_best": "17",
+        "melee_final_blows_most_in_game": "4",
+        "multikill_best": "6",
+        "objective_kills_most_in_game": "25",
+        "objective_time_most_in_game": "07:03",
+        "offensive_assists_most_in_game": "17",
+        "solo_kills_most_in_game": "19",
+        "time_spent_on_fire_most_in_game": "04:05",
+        "turrets_destroyed_most_in_game": "4"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "9072",
+        "barrier_damage_done_avg_per_10_min": "2345",
+        "deaths_avg_per_10_min": "8.38",
+        "eliminations_avg_per_10_min": "16.62",
+        "final_blows_avg_per_10_min": "6.05",
+        "healing_done_avg_per_10_min": "76.82",
+        "hero_damage_done_avg_per_10_min": "6535",
+        "objective_kills_avg_per_10_min": "6.40",
+        "objective_time_avg_per_10_min": "01:31",
+        "solo_kills_avg_per_10_min": "0.59",
+        "time_spent_on_fire_avg_per_10_min": "00:51"
+      },
+      "game": {
+        "games_lost": "13",
+        "games_played": "33",
+        "games_won": "20",
+        "time_played": "06:13:42"
+      },
+      "miscellaneous": {
+        "turrets_destroyed": "6"
+      },
+      "match_awards": {
+        "medals_gold": "21",
+        "cards": "18",
+        "medals": "89",
+        "medals_bronze": "39",
+        "medals_silver": "29"
+      }
+    },
+    "cassidy": {
+      "hero_specific": {
+        "deadeye_kills": "3",
+        "deadeye_kills_avg_per_10_min": "2.16",
+        "deadeye_kills_most_in_game": "3"
+      },
+      "combat": {
+        "all_damage_done": "14790",
+        "barrier_damage_done": "5043",
+        "critical_hit_accuracy": "9%",
+        "critical_hits": "14",
+        "deaths": "16",
+        "eliminations": "24",
+        "final_blows": "9",
+        "hero_damage_done": "9559",
+        "objective_kills": "6",
+        "objective_time": "00:33",
+        "time_spent_on_fire": "00:06",
+        "weapon_accuracy": "43%"
+      },
+      "assists": {},
+      "best": {
+        "all_damage_done_most_in_game": "14790",
+        "all_damage_done_most_in_life": "3490",
+        "barrier_damage_done_most_in_game": "5043",
+        "critical_hits_most_in_game": "14",
+        "critical_hits_most_in_life": "4",
+        "eliminations_most_in_game": "24",
+        "eliminations_most_in_life": "8",
+        "final_blows_most_in_game": "9",
+        "hero_damage_done_most_in_game": "9559",
+        "hero_damage_done_most_in_life": "2279",
+        "kill_streak_best": "8",
+        "objective_kills_most_in_game": "6",
+        "objective_time_most_in_game": "00:33",
+        "time_spent_on_fire_most_in_game": "00:06",
+        "weapon_accuracy_best_in_game": "43%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "10642",
+        "barrier_damage_done_avg_per_10_min": "3629",
+        "critical_hits_avg_per_10_min": "10.07",
+        "deaths_avg_per_10_min": "11.51",
+        "eliminations_avg_per_10_min": "17.27",
+        "eliminations_per_life": "1.50",
+        "final_blows_avg_per_10_min": "6.48",
+        "hero_damage_done_avg_per_10_min": "6878",
+        "objective_kills_avg_per_10_min": "4.32",
+        "objective_time_avg_per_10_min": "00:24",
+        "time_spent_on_fire_avg_per_10_min": "00:04"
+      },
+      "game": {
+        "games_lost": "0",
+        "games_played": "1",
+        "games_won": "1",
+        "time_played": "13:54",
+        "win_percentage": "100%"
+      },
+      "miscellaneous": {},
+      "match_awards": {
+        "medals_bronze": "1",
+        "medals": "1"
+      }
+    },
+    "dva": {
+      "hero_specific": {
+        "damage_blocked": "168",
+        "damage_blocked_avg_per_10_min": "2347",
+        "damage_blocked_most_in_game": "168",
+        "mech_death": "1"
+      },
+      "combat": {
+        "all_damage_done": "65",
+        "critical_hit_accuracy": "7%",
+        "critical_hits": "2",
+        "death": "1",
+        "elimination": "1",
+        "hero_damage_done": "65",
+        "objective_kill": "1",
+        "objective_time": "00:08",
+        "time_spent_on_fire": "00:13",
+        "weapon_accuracy": "7%"
+      },
+      "assists": {},
+      "best": {
+        "all_damage_done_most_in_game": "65",
+        "all_damage_done_most_in_life": "65",
+        "critical_hits_most_in_game": "2",
+        "critical_hits_most_in_life": "2",
+        "elimination_most_in_game": "1",
+        "elimination_most_in_life": "1",
+        "hero_damage_done_most_in_game": "65",
+        "hero_damage_done_most_in_life": "65",
+        "kill_streak_best": "1",
+        "objective_kill_most_in_game": "1",
+        "objective_time_most_in_game": "00:08",
+        "time_spent_on_fire_most_in_game": "00:13",
+        "weapon_accuracy_best_in_game": "7%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "900",
+        "critical_hits_avg_per_10_min": "27.89",
+        "deaths_avg_per_10_min": "13.95",
+        "elimination_per_life": "1.00",
+        "eliminations_avg_per_10_min": "13.95",
+        "hero_damage_done_avg_per_10_min": "900",
+        "objective_kills_avg_per_10_min": "13.95",
+        "objective_time_avg_per_10_min": "01:50",
+        "time_spent_on_fire_avg_per_10_min": "02:58"
+      },
+      "game": {
+        "games_lost": "0",
+        "games_played": "0",
+        "time_played": "00:43"
+      },
+      "miscellaneous": {},
+      "match_awards": {
+        "medals_silver": "0",
+        "medals_bronze": "0",
+        "medals": "0"
+      }
+    },
+    "echo": {
+      "hero_specific": {
+        "sticky_bombs_direct_hit_accuracy": "67%",
+        "sticky_bombs_direct_hits_avg_per_10_min": "70.20",
+        "sticky_bombs_direct_hits_most_in_game": "4"
+      },
+      "combat": {
+        "all_damage_done": "390",
+        "barrier_damage_done": "160",
+        "death": "1",
+        "hero_damage_done": "230",
+        "objective_time": "00:00",
+        "weapon_accuracy": "100%"
+      },
+      "assists": {},
+      "best": {
+        "all_damage_done_most_in_game": "390",
+        "all_damage_done_most_in_life": "200",
+        "barrier_damage_done_most_in_game": "160",
+        "hero_damage_done_most_in_game": "230",
+        "hero_damage_done_most_in_life": "140",
+        "objective_time_most_in_game": "00:00",
+        "weapon_accuracy_best_in_game": "100%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "6844",
+        "barrier_damage_done_avg_per_10_min": "2808",
+        "deaths_avg_per_10_min": "17.55",
+        "hero_damage_done_avg_per_10_min": "4036",
+        "objective_time_avg_per_10_min": "00:03"
+      },
+      "game": {
+        "games_lost": "0",
+        "games_played": "0",
+        "games_won": "0",
+        "time_played": "00:34",
+        "win_percentage": "100%"
+      },
+      "miscellaneous": {},
+      "match_awards": {
+        "medals_bronze": "0",
+        "medals": "0"
+      }
+    },
+    "orisa": {
+      "hero_specific": {
+        "damage_amplified": "15872",
+        "damage_amplified_avg_per_10_min": "2986",
+        "damage_amplified_most_in_game": "6339",
+        "damage_blocked": "91501",
+        "damage_blocked_avg_per_10_min": "17212",
+        "damage_blocked_most_in_game": "32015",
+        "supercharger_assists": "26",
+        "supercharger_assists_avg_per_10_min": "4.89",
+        "supercharger_assists_most_in_game": "9"
+      },
+      "combat": {
+        "all_damage_done": "52605",
+        "barrier_damage_done": "19621",
+        "deaths": "40",
+        "eliminations": "92",
+        "environmental_kills": "2",
+        "final_blows": "21",
+        "hero_damage_done": "30615",
+        "melee_final_blow": "1",
+        "multikill": "1",
+        "objective_kills": "51",
+        "objective_time": "12:18",
+        "quick_melee_accuracy": "3%",
+        "solo_kills": "2",
+        "time_spent_on_fire": "07:18",
+        "weapon_accuracy": "32%"
+      },
+      "assists": {
+        "offensive_assists": "55",
+        "offensive_assists_avg_per_10_min": "10.35",
+        "offensive_assists_most_in_game": "17"
+      },
+      "best": {
+        "all_damage_done_most_in_game": "20365",
+        "all_damage_done_most_in_life": "5135",
+        "barrier_damage_done_most_in_game": "10439",
+        "eliminations_most_in_game": "25",
+        "eliminations_most_in_life": "12",
+        "final_blows_most_in_game": "7",
+        "hero_damage_done_most_in_game": "8780",
+        "hero_damage_done_most_in_life": "3109",
+        "kill_streak_best": "12",
+        "melee_final_blow_most_in_game": "1",
+        "multikill_best": "3",
+        "objective_kills_most_in_game": "19",
+        "objective_time_most_in_game": "06:54",
+        "solo_kill_most_in_game": "1",
+        "time_spent_on_fire_most_in_game": "03:51",
+        "weapon_accuracy_best_in_game": "43%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "9896",
+        "barrier_damage_done_avg_per_10_min": "3691",
+        "deaths_avg_per_10_min": "7.52",
+        "eliminations_avg_per_10_min": "17.31",
+        "eliminations_per_life": "2.30",
+        "final_blows_avg_per_10_min": "3.95",
+        "hero_damage_done_avg_per_10_min": "5759",
+        "melee_final_blows_avg_per_10_min": "0.19",
+        "objective_kills_avg_per_10_min": "9.59",
+        "objective_time_avg_per_10_min": "02:19",
+        "solo_kills_avg_per_10_min": "0.38",
+        "time_spent_on_fire_avg_per_10_min": "01:22"
+      },
+      "game": {
+        "games_lost": "1",
+        "games_played": "4",
+        "games_won": "4",
+        "time_played": "53:10",
+        "win_percentage": "87%"
+      },
+      "miscellaneous": {
+        "turrets_destroyed": "2"
+      },
+      "match_awards": {
+        "medals_bronze": "3",
+        "medals_silver": "4",
+        "medals_gold": "4",
+        "medals": "11",
+        "cards": "2"
+      }
+    },
+    "reinhardt": {
+      "hero_specific": {
+        "charge_kills": "33",
+        "charge_kills_avg_per_10_min": "3.62",
+        "charge_kills_most_in_game": "9",
+        "damage_blocked": "200830",
+        "damage_blocked_avg_per_10_min": "22034",
+        "damage_blocked_most_in_game": "25247",
+        "earthshatter_kills": "23",
+        "earthshatter_kills_avg_per_10_min": "2.52",
+        "earthshatter_kills_most_in_game": "5",
+        "fire_strike_kills": "49",
+        "fire_strike_kills_avg_per_10_min": "5.38",
+        "fire_strike_kills_most_in_game": "10",
+        "rocket_hammer_melee_accuracy": "27%"
+      },
+      "combat": {
+        "all_damage_done": "69288",
+        "barrier_damage_done": "14916",
+        "deaths": "74",
+        "eliminations": "141",
+        "environmental_kills": "2",
+        "final_blows": "65",
+        "hero_damage_done": "52312",
+        "multikills": "2",
+        "objective_kills": "49",
+        "objective_time": "15:39",
+        "solo_kills": "5",
+        "time_spent_on_fire": "08:44"
+      },
+      "assists": {
+        "offensive_assists": "29",
+        "offensive_assists_avg_per_10_min": "3.18",
+        "offensive_assists_most_in_game": "5"
+      },
+      "best": {
+        "all_damage_done_most_in_game": "10178",
+        "all_damage_done_most_in_life": "3894",
+        "barrier_damage_done_most_in_game": "2620",
+        "eliminations_most_in_game": "21",
+        "eliminations_most_in_life": "7",
+        "final_blows_most_in_game": "14",
+        "hero_damage_done_most_in_game": "7572",
+        "hero_damage_done_most_in_life": "2613",
+        "kill_streak_best": "7",
+        "multikill_best": "6",
+        "objective_kills_most_in_game": "11",
+        "objective_time_most_in_game": "04:29",
+        "solo_kills_most_in_game": "2",
+        "time_spent_on_fire_most_in_game": "02:17"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "7602",
+        "barrier_damage_done_avg_per_10_min": "1637",
+        "deaths_avg_per_10_min": "8.12",
+        "eliminations_avg_per_10_min": "15.47",
+        "eliminations_per_life": "1.91",
+        "final_blows_avg_per_10_min": "7.13",
+        "hero_damage_done_avg_per_10_min": "5739",
+        "objective_kills_avg_per_10_min": "5.38",
+        "objective_time_avg_per_10_min": "01:43",
+        "solo_kills_avg_per_10_min": "0.55",
+        "time_spent_on_fire_avg_per_10_min": "00:58"
+      },
+      "game": {
+        "games_lost": "4",
+        "games_played": "9",
+        "games_won": "5",
+        "time_played": "01:31:09",
+        "win_percentage": "56%"
+      },
+      "miscellaneous": {
+        "turrets_destroyed": "4"
+      },
+      "match_awards": {
+        "medals_bronze": "11",
+        "medals_silver": "7",
+        "medals_gold": "5",
+        "medals": "23",
+        "cards": "8"
+      }
+    },
+    "roadhog": {
+      "hero_specific": {
+        "enemies_hooked": "3",
+        "enemies_hooked_avg_per_10_min": "5.96",
+        "enemies_hooked_most_in_game": "2",
+        "hook_accuracy": "18%",
+        "hook_accuracy_best_in_game": "29%",
+        "hooks_attempted": "17",
+        "self_healing": "2871",
+        "self_healing_avg_per_10_min": "5701",
+        "self_healing_most_in_game": "1424"
+      },
+      "combat": {
+        "all_damage_done": "4297",
+        "barrier_damage_done": "1244",
+        "critical_hit_accuracy": "6%",
+        "critical_hits": "23",
+        "deaths": "6",
+        "elimination": "1",
+        "final_blow": "1",
+        "hero_damage_done": "3040",
+        "objective_kill": "1",
+        "objective_time": "00:20",
+        "quick_melee_accuracy": "20%",
+        "weapon_accuracy": "26%"
+      },
+      "assists": {
+        "offensive_assist": "1",
+        "offensive_assist_most_in_game": "1",
+        "offensive_assists_avg_per_10_min": "1.99"
+      },
+      "best": {
+        "all_damage_done_most_in_game": "2033",
+        "all_damage_done_most_in_life": "1640",
+        "barrier_damage_done_most_in_game": "933",
+        "critical_hits_most_in_game": "13",
+        "critical_hits_most_in_life": "13",
+        "elimination_most_in_game": "1",
+        "elimination_most_in_life": "1",
+        "final_blow_most_in_game": "1",
+        "hero_damage_done_most_in_game": "1990",
+        "hero_damage_done_most_in_life": "1603",
+        "kill_streak_best": "1",
+        "objective_kill_most_in_game": "1",
+        "objective_time_most_in_game": "00:20",
+        "weapon_accuracy_best_in_game": "28%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "8534",
+        "barrier_damage_done_avg_per_10_min": "2471",
+        "critical_hits_avg_per_10_min": "45.68",
+        "deaths_avg_per_10_min": "11.92",
+        "eliminations_avg_per_10_min": "1.99",
+        "eliminations_per_life": "0.17",
+        "final_blows_avg_per_10_min": "1.99",
+        "healing_done_avg_per_10_min": "5701",
+        "hero_damage_done_avg_per_10_min": "6037",
+        "objective_kills_avg_per_10_min": "1.99",
+        "objective_time_avg_per_10_min": "00:40"
+      },
+      "game": {
+        "games_lost": "0",
+        "games_played": "0",
+        "games_won": "0",
+        "time_played": "05:02",
+        "win_percentage": "70%"
+      },
+      "miscellaneous": {},
+      "match_awards": {
+        "medals_bronze": "1",
+        "medals_silver": "1",
+        "medals_gold": "0",
+        "medals": "2"
+      }
+    },
+    "sigma": {
+      "hero_specific": {
+        "damage_absorbed": "110",
+        "damage_absorbed_avg_per_10_min": "924",
+        "damage_absorbed_most_in_game": "110",
+        "damage_blocked": "891",
+        "damage_blocked_avg_per_10_min": "7484",
+        "damage_blocked_most_in_game": "891"
+      },
+      "combat": {
+        "all_damage_done": "958",
+        "barrier_damage_done": "523",
+        "deaths": "2",
+        "elimination": "1",
+        "hero_damage_done": "436",
+        "objective_time": "00:19"
+      },
+      "assists": {},
+      "best": {
+        "all_damage_done_most_in_game": "958",
+        "all_damage_done_most_in_life": "829",
+        "barrier_damage_done_most_in_game": "523",
+        "elimination_most_in_game": "1",
+        "elimination_most_in_life": "1",
+        "hero_damage_done_most_in_game": "436",
+        "hero_damage_done_most_in_life": "307",
+        "kill_streak_best": "1",
+        "objective_time_most_in_game": "00:19"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "8048",
+        "barrier_damage_done_avg_per_10_min": "4390",
+        "deaths_avg_per_10_min": "16.80",
+        "eliminations_avg_per_10_min": "8.40",
+        "eliminations_per_life": "0.50",
+        "hero_damage_done_avg_per_10_min": "3658",
+        "objective_time_avg_per_10_min": "02:37"
+      },
+      "game": {
+        "games_lost": "0",
+        "games_played": "0",
+        "time_played": "01:11"
+      },
+      "miscellaneous": {},
+      "match_awards": {
+        "medals_bronze": "0",
+        "medals_silver": "0",
+        "medals_gold": "0",
+        "medals": "0"
+      }
+    },
+    "tracer": {
+      "hero_specific": {
+        "health_recovered": "94",
+        "health_recovered_avg_per_10_min": "2134",
+        "health_recovered_most_in_game": "94",
+        "self_healing": "94",
+        "self_healing_avg_per_10_min": "2134",
+        "self_healing_most_in_game": "94"
+      },
+      "combat": {
+        "death": "1",
+        "objective_time": "00:04"
+      },
+      "assists": {},
+      "best": {
+        "objective_time_most_in_game": "00:04"
+      },
+      "average": {
+        "deaths_avg_per_10_min": "22.70",
+        "objective_time_avg_per_10_min": "01:35"
+      },
+      "game": {
+        "games_lost": "0",
+        "games_played": "0",
+        "games_won": "0",
+        "time_played": "00:26",
+        "win_percentage": "100%"
+      },
+      "miscellaneous": {},
+      "match_awards": {
+        "medals_bronze": "0",
+        "medals": "0"
+      }
+    },
+    "winston": {
+      "hero_specific": {
+        "damage_blocked": "193849",
+        "damage_blocked_avg_per_10_min": "13347",
+        "damage_blocked_most_in_game": "24357",
+        "jump_kills": "98",
+        "jump_pack_kills": "98",
+        "jump_pack_kills_avg_per_10_min": "6.75",
+        "jump_pack_kills_most_in_game": "18",
+        "melee_kills": "88",
+        "melee_kills_avg_per_10_min": "6.06",
+        "melee_kills_most_in_game": "15",
+        "players_knocked_back": "882",
+        "players_knocked_back_avg_per_10_min": "60.73",
+        "players_knocked_back_most_in_game": "133",
+        "primal_rage_kills": "24",
+        "primal_rage_kills_avg_per_10_min": "1.65",
+        "primal_rage_kills_most_in_game": "7",
+        "primal_rage_melee_accuracy": "59%",
+        "tesla_cannon_accuracy": "68%",
+        "weapon_kills": "221"
+      },
+      "combat": {
+        "all_damage_done": "119365",
+        "barrier_damage_done": "20876",
+        "deaths": "126",
+        "eliminations": "237",
+        "environmental_kills": "3",
+        "final_blows": "86",
+        "hero_damage_done": "97120",
+        "melee_final_blows": "12",
+        "multikills": "2",
+        "objective_kills": "69",
+        "objective_time": "20:18",
+        "quick_melee_accuracy": "17%",
+        "solo_kills": "13",
+        "time_spent_on_fire": "09:16"
+      },
+      "assists": {},
+      "best": {
+        "all_damage_done_most_in_game": "19252",
+        "all_damage_done_most_in_life": "4676",
+        "barrier_damage_done_most_in_game": "4701",
+        "eliminations_most_in_game": "35",
+        "eliminations_most_in_life": "17",
+        "final_blows_most_in_game": "19",
+        "hero_damage_done_most_in_game": "14551",
+        "hero_damage_done_most_in_life": "4251",
+        "kill_streak_best": "17",
+        "melee_final_blows_most_in_game": "4",
+        "multikill_best": "4",
+        "objective_kills_most_in_game": "11",
+        "objective_time_most_in_game": "04:45",
+        "solo_kills_most_in_game": "3",
+        "time_spent_on_fire_most_in_game": "04:05"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "8219",
+        "barrier_damage_done_avg_per_10_min": "1437",
+        "deaths_avg_per_10_min": "8.68",
+        "eliminations_avg_per_10_min": "16.32",
+        "eliminations_per_life": "1.88",
+        "final_blows_avg_per_10_min": "5.92",
+        "hero_damage_done_avg_per_10_min": "6687",
+        "melee_final_blows_avg_per_10_min": "0.83",
+        "objective_kills_avg_per_10_min": "4.75",
+        "objective_time_avg_per_10_min": "01:24",
+        "solo_kills_avg_per_10_min": "0.90",
+        "time_spent_on_fire_avg_per_10_min": "00:38"
+      },
+      "game": {
+        "games_lost": "6",
+        "games_played": "13",
+        "games_won": "6",
+        "time_played": "02:25:14",
+        "win_percentage": "49%"
+      },
+      "miscellaneous": {},
+      "match_awards": {
+        "medals_bronze": "17",
+        "medals_silver": "10",
+        "medals_gold": "6",
+        "medals": "34",
+        "cards": "6"
+      }
+    },
+    "wrecking_ball": {
+      "hero_specific": {
+        "player_knocked_back": "1",
+        "player_knocked_back_most_in_game": "1",
+        "players_knocked_back_avg_per_10_min": "47.32"
+      },
+      "combat": {
+        "all_damage_done": "50",
+        "death": "1",
+        "hero_damage_done": "50",
+        "objective_time": "00:03"
+      },
+      "assists": {},
+      "best": {
+        "all_damage_done_most_in_game": "50",
+        "all_damage_done_most_in_life": "50",
+        "hero_damage_done_most_in_game": "50",
+        "hero_damage_done_most_in_life": "50",
+        "objective_time_most_in_game": "00:03"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "2366",
+        "deaths_avg_per_10_min": "47.32",
+        "hero_damage_done_avg_per_10_min": "2366",
+        "objective_time_avg_per_10_min": "02:01"
+      },
+      "game": {
+        "games_lost": "0",
+        "games_played": "0",
+        "time_played": "00:13"
+      },
+      "miscellaneous": {},
+      "match_awards": {
+        "medals_silver": "0",
+        "medals": "0"
+      }
+    },
+    "zarya": {
+      "hero_specific": {
+        "average_energy": "43%",
+        "average_energy_best_in_game": "76%",
+        "damage_blocked": "44721",
+        "damage_blocked_avg_per_10_min": "7203",
+        "damage_blocked_most_in_game": "8877",
+        "graviton_surge_kills": "23",
+        "graviton_surge_kills_avg_per_10_min": "3.70",
+        "graviton_surge_kills_most_in_game": "8",
+        "high_energy_kills": "95",
+        "high_energy_kills_avg_per_10_min": "15.30",
+        "high_energy_kills_most_in_game": "31",
+        "primary_fire_accuracy": "46%",
+        "projected_barriers_applied": "199",
+        "projected_barriers_applied_avg_per_10_min": "32.05",
+        "projected_barriers_applied_most_in_game": "44"
+      },
+      "combat": {
+        "all_damage_done": "77214",
+        "barrier_damage_done": "25261",
+        "deaths": "45",
+        "eliminations": "124",
+        "final_blows": "44",
+        "hero_damage_done": "50801",
+        "melee_final_blows": "2",
+        "multikills": "2",
+        "objective_kills": "62",
+        "objective_time": "06:40",
+        "quick_melee_accuracy": "2%",
+        "solo_kills": "2",
+        "time_spent_on_fire": "06:11",
+        "weapon_accuracy": "36%"
+      },
+      "assists": {
+        "defensive_assists": "50",
+        "defensive_assists_avg_per_10_min": "8.05",
+        "defensive_assists_most_in_game": "11",
+        "offensive_assists": "22",
+        "offensive_assists_avg_per_10_min": "3.54",
+        "offensive_assists_most_in_game": "8"
+      },
+      "best": {
+        "all_damage_done_most_in_game": "17032",
+        "all_damage_done_most_in_life": "4253",
+        "barrier_damage_done_most_in_game": "4461",
+        "eliminations_most_in_game": "38",
+        "eliminations_most_in_life": "11",
+        "final_blows_most_in_game": "13",
+        "hero_damage_done_most_in_game": "12151",
+        "hero_damage_done_most_in_life": "3785",
+        "kill_streak_best": "11",
+        "melee_final_blows_most_in_game": "2",
+        "multikill_best": "3",
+        "objective_kills_most_in_game": "25",
+        "objective_time_most_in_game": "02:02",
+        "solo_kill_most_in_game": "1",
+        "time_spent_on_fire_most_in_game": "03:31",
+        "weapon_accuracy_best_in_game": "66%"
+      },
+      "average": {
+        "all_damage_done_avg_per_10_min": "12436",
+        "barrier_damage_done_avg_per_10_min": "4068",
+        "deaths_avg_per_10_min": "7.25",
+        "eliminations_avg_per_10_min": "19.97",
+        "eliminations_per_life": "2.76",
+        "final_blows_avg_per_10_min": "7.09",
+        "hero_damage_done_avg_per_10_min": "8182",
+        "melee_final_blows_avg_per_10_min": "0.32",
+        "objective_kills_avg_per_10_min": "9.99",
+        "objective_time_avg_per_10_min": "01:04",
+        "solo_kills_avg_per_10_min": "0.32",
+        "time_spent_on_fire_avg_per_10_min": "01:00"
+      },
+      "game": {
+        "games_lost": "2",
+        "games_played": "5",
+        "games_won": "4",
+        "time_played": "01:02:05",
+        "win_percentage": "67%"
+      },
+      "miscellaneous": {},
+      "match_awards": {
+        "medals_bronze": "6",
+        "medals_silver": "6",
+        "medals_gold": "5",
+        "medals": "18",
+        "cards": "2"
+      }
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "quickplay": {
+    "reaper": {
+      "time": "45:09:51",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000002.png"
+    },
+    "pharah": {
+      "time": "23:58:45",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000008.png"
+    },
+    "mercy": {
+      "time": "17:19:45",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000004.png"
+    },
+    "reinhardt": {
+      "time": "12:09:37",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000007.png"
+    },
+    "lucio": {
+      "time": "10:44:14",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000079.png"
+    },
+    "soldier_76": {
+      "time": "09:09:45",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000006E.png"
+    },
+    "genji": {
+      "time": "08:14:00",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000029.png"
+    },
+    "cassidy": {
+      "time": "07:46:14",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000042.png"
+    },
+    "winston": {
+      "time": "07:21:47",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000009.png"
+    },
+    "roadhog": {
+      "time": "06:09:38",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000040.png"
+    },
+    "tracer": {
+      "time": "05:27:38",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000003.png"
+    },
+    "bastion": {
+      "time": "04:58:03",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000015.png"
+    },
+    "zarya": {
+      "time": "04:55:05",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000068.png"
+    },
+    "torbjorn": {
+      "time": "03:33:39",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000006.png"
+    },
+    "junkrat": {
+      "time": "03:33:31",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000065.png"
+    },
+    "hanzo": {
+      "time": "03:31:10",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000005.png"
+    },
+    "symmetra": {
+      "time": "03:28:34",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000016.png"
+    },
+    "widowmaker": {
+      "time": "03:12:18",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000000A.png"
+    },
+    "zenyatta": {
+      "time": "02:48:31",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000020.png"
+    },
+    "mei": {
+      "time": "01:22:09",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000000DD.png"
+    },
+    "ana": {
+      "time": "01:20:05",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013B.png"
+    },
+    "dva": {
+      "time": "01:11:58",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000007A.png"
+    },
+    "sombra": {
+      "time": "20:13",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012E.png"
+    },
+    "wrecking_ball": {
+      "time": "00:35",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001CA.png"
+    }
+  },
+  "competitive": {
+    "winston": {
+      "time": "02:25:14",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000009.png"
+    },
+    "reinhardt": {
+      "time": "01:31:09",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000007.png"
+    },
+    "zarya": {
+      "time": "01:02:05",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000068.png"
+    },
+    "orisa": {
+      "time": "53:10",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013E.png"
+    },
+    "cassidy": {
+      "time": "13:54",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000042.png"
+    },
+    "roadhog": {
+      "time": "05:02",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000040.png"
+    },
+    "sigma": {
+      "time": "01:11",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000023B.png"
+    },
+    "dva": {
+      "time": "00:43",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000007A.png"
+    },
+    "echo": {
+      "time": "00:34",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000206.png"
+    },
+    "tracer": {
+      "time": "00:26",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000003.png"
+    },
+    "wrecking_ball": {
+      "time": "00:13",
+      "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001CA.png"
+    }
+  }
+}
