@@ -24,7 +24,7 @@ export const heroIDMap = {
   '0x02E000000000013B': 'ana',
   '0x02E000000000013E': 'orisa',
   '0x02E00000000001A2': 'moira',
-  '0x02E00000000001CA': 'hammond',
+  '0x02E00000000001CA': 'wrecking_ball',
   '0x02E0000000000200': 'ashe',
   '0x02E0000000000020': 'zenyatta',
   '0x02E0000000000040': 'roadhog',
