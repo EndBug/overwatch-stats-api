@@ -1,6 +1,6 @@
 {
   "name": "@endbug/overwatch-stats-api",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Get stats from blizzard career profile pages",
   "main": "build/index.js",
   "types": "build",
