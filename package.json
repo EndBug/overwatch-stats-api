@@ -5,7 +5,7 @@
   "main": "build/index.js",
   "types": "build",
   "scripts": {
-    "build": "rimraf build && tsc",
+    "build": "rimraf build && tsc -p tsconfig.build.json",
     "build:prepare": "path-exists ./build || npm run build",
     "lint": "gts lint",
     "prepare": "npm run build:prepare",
